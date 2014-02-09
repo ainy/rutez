@@ -13,3 +13,4 @@ SPIDER_MODULES = ['crawler.spiders']
 NEWSPIDER_MODULE = 'crawler.spiders'
 USER_AGENT = '%s/%s' % (BOT_NAME, BOT_VERSION)
 
+ITEM_PIPELINES = ['crawler.pipelines.SqlitePipeline']

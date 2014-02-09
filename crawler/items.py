@@ -5,7 +5,7 @@
 
 from scrapy.item import Item, Field
 
-class CrawlerItem(Item):
-    # define the fields for your item here like:
-    # name = Field()
-    pass
+class Sinset(Item):
+    name = Field()
+    words = Field()
+    rels = Field()
