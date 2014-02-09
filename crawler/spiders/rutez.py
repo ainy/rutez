@@ -7,16 +7,16 @@ from scrapy.contrib.linkextractors.sgml import SgmlLinkExtractor
 from crawler.items import Sinset
 from scrapy.contrib.loader import XPathItemLoader
 
-class Rutez(BaseSpider): #CrawlSpider
+class Rutez(CrawlSpider):
     name = "rutez"
     allowed_domains = ["labinform.ru"]
     start_urls = [
-        "http://www.labinform.ru/ruthes/te/11/005/140365.htm",
-        "http://www.labinform.ru/ruthes/c/11/000/108659.htm"
+        "http://www.labinform.ru/ruthes/index.htm"
     ]
-    #rules = [Rule(SgmlLinkExtractor(), callback='parse_item', follow=True)]
+    rules = [Rule(SgmlLinkExtractor(allow=('te',))),
+             Rule(SgmlLinkExtractor(deny=('te',)), callback='parse_item')]
 
-    def parse(self, response):
+    def parse_item(self, response):
         hxs = HtmlXPathSelector(response)
         for conc in hxs.select('//div[@class="conc-block"]'):
           item = Sinset()
