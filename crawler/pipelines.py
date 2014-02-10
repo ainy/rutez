@@ -30,7 +30,7 @@ class SqlitePipeline(object):
         
     def process_item(self, item, spider):
         sid = self.get_sinset(item['name'])
-        if sid != self.cursor.lastrowid:
+        if sid in self.sinsets:
           return DropItem("Duplicate item found: %s" % item)
         self.sinsets.add(sid)
         for i in item['words']:
