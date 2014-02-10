@@ -13,7 +13,7 @@ class Rutez(CrawlSpider):
     start_urls = [
         "http://www.labinform.ru/ruthes/c/15/000/106646.htm"
     ]
-    rules = [Rule(SgmlLinkExtractor(deny=('te','index','about','info')), callback='parse_item', follow=True)]
+    rules = [Rule(SgmlLinkExtractor(deny=('te',)), callback='parse_item', follow=True)]
 
     def parse_item(self, response):
         hxs = HtmlXPathSelector(response)
