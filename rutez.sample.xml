@@ -1,0 +1,3904 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+  <item>
+    <rels>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>ИСКУССТВЕННЫЙ ВОДОЕМ</value>
+      </value>
+    </rels>
+    <name>ПРУД</name>
+    <words>
+      <value>ПРУД</value>
+      <value>ПРУДИК</value>
+      <value>ПРУДОВОЙ</value>
+    </words>
+  </item>
+  <item>
+    <rels>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>СОЗДАТЬ (СДЕЛАТЬ СУЩЕСТВУЮЩИМ)</value>
+      </value>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>ИЗГОТОВИТЬ, ВЫРАБОТАТЬ</value>
+      </value>
+    </rels>
+    <name>ГЕНЕРИРОВАТЬ (СОЗДАТЬ, ПРОИЗВЕСТИ)</name>
+    <words>
+      <value>ГЕНЕРАЦИЯ</value>
+      <value>ГЕНЕРИРОВАНИЕ</value>
+      <value>ГЕНЕРИРОВАТЬ</value>
+    </words>
+  </item>
+  <item>
+    <rels>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>ПРОИСХОЖДЕНИЕ (ВОЗНИКНОВЕНИЕ, ПОЯВЛЕНИЕ)</value>
+      </value>
+    </rels>
+    <name>ЗДЕШНИЙ, МЕСТНЫЙ</name>
+    <words>
+      <value>ЗДЕШНИЙ</value>
+      <value>МЕСТНЫЙ</value>
+    </words>
+  </item>
+  <item>
+    <rels>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>ВОДОРОДНОЕ СОЕДИНЕНИЕ</value>
+      </value>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>ЖИДКОСТЬ</value>
+      </value>
+      <value>
+        <value>НИЖЕ</value>
+        <value>ПРЕСНАЯ ВОДА</value>
+      </value>
+      <value>
+        <value>НИЖЕ</value>
+        <value>СОЛЕНАЯ ВОДА</value>
+      </value>
+      <value>
+        <value>АССОЦ</value>
+        <value>КИСЛОРОД</value>
+      </value>
+      <value>
+        <value>АССОЦ</value>
+        <value>ВОДНОЕ ХОЗЯЙСТВО</value>
+      </value>
+      <value>
+        <value>АССОЦ</value>
+        <value>ВОДНЫЕ РЕСУРСЫ</value>
+      </value>
+      <value>
+        <value>АССОЦ</value>
+        <value>КУПАТЬ</value>
+      </value>
+      <value>
+        <value>АССОЦ</value>
+        <value>ЛЕД</value>
+      </value>
+    </rels>
+    <name>ВОДА (ЖИДКОСТЬ)</name>
+    <words>
+      <value>ВОДА</value>
+      <value>ВОДНЫЙ</value>
+      <value>ВОДЯНОЙ</value>
+    </words>
+  </item>
+  <item>
+    <rels>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>ПРОИЗОЙТИ, СЛУЧИТЬСЯ</value>
+      </value>
+    </rels>
+    <name>СЛЕДОВАТЬ ПО ВРЕМЕНИ</name>
+    <words>
+      <value>СЛЕДОВАТЬ</value>
+      <value>СЛЕДОВАТЬ ПО ВРЕМЕНИ</value>
+    </words>
+  </item>
+  <item>
+    <rels>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>БЫТОВЫЕ ОТХОДЫ</value>
+      </value>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>МУСОР</value>
+      </value>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>ТВЕРДЫЕ ОТХОДЫ</value>
+      </value>
+      <value>
+        <value>АССОЦ</value>
+        <value>ПОЛИГОН ТВЕРДЫХ БЫТОВЫХ ОТХОДОВ</value>
+      </value>
+    </rels>
+    <name>ТВЕРДЫЕ БЫТОВЫЕ ОТХОДЫ</name>
+    <words>
+      <value>БЫТОВОЙ МУСОР</value>
+      <value>ГОРОДСКОЙ МУСОР</value>
+      <value>МУНИЦИПАЛЬНЫЙ МУСОР</value>
+      <value>ТВЕРДЫЕ БЫТОВЫЕ ОТХОДЫ</value>
+    </words>
+  </item>
+  <item>
+    <rels>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>ЕСТЕСТВЕННЫЕ НАУКИ</value>
+      </value>
+      <value>
+        <value>НИЖЕ</value>
+        <value>ОПТИЧЕСКАЯ ФИЗИКА</value>
+      </value>
+      <value>
+        <value>НИЖЕ</value>
+        <value>ЭЛЕКТРОНИКА (НАУКА)</value>
+      </value>
+      <value>
+        <value>АССОЦ</value>
+        <value>ФИЗИЧЕСКОЕ ЯВЛЕНИЕ, ПРОЦЕСС</value>
+      </value>
+    </rels>
+    <name>ФИЗИКА</name>
+    <words>
+      <value>ФИЗИКА</value>
+      <value>ФИЗИЧЕСКИЕ НАУКИ</value>
+      <value>ФИЗИЧЕСКИЙ</value>
+    </words>
+  </item>
+  <item>
+    <rels>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>ВЫСТУПИТЬ (ИСПОЛНИТЬ)</value>
+      </value>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>ПОЕЗДКА</value>
+      </value>
+      <value>
+        <value>ЦЕЛОЕ</value>
+        <value>КОНЦЕРТНАЯ ДЕЯТЕЛЬНОСТЬ</value>
+      </value>
+      <value>
+        <value>АССОЦ</value>
+        <value>АРТИСТ</value>
+      </value>
+    </rels>
+    <name>ГАСТРОЛИ</name>
+    <words>
+      <value>ГАСТРОЛИ</value>
+      <value>ГАСТРОЛИРОВАТЬ</value>
+      <value>ГАСТРОЛЬНАЯ ПОЕЗДКА</value>
+      <value>ГАСТРОЛЬНОЕ ТУРНЕ</value>
+      <value>ГАСТРОЛЬНО-КОНЦЕРТНЫЙ</value>
+      <value>ГАСТРОЛЬНЫЙ</value>
+      <value>ГАСТРОЛЬНЫЙ ТУР</value>
+      <value>КОНЦЕРТНОЕ ТУРНЕ</value>
+      <value>КОНЦЕРТНЫЙ ТУР</value>
+      <value>ТУРНЕ</value>
+    </words>
+  </item>
+  <item>
+    <rels>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>НЕСВОЕВРЕМЕННЫЙ</value>
+      </value>
+      <value>
+        <value>ЦЕЛОЕ</value>
+        <value>ОПОЗДАТЬ ПРИЙТИ, ПРИЕХАТЬ</value>
+      </value>
+    </rels>
+    <name>ЗАПОЗДАЛЫЙ (ПОЗДНИЙ, НЕСВОЕВРЕМЕННЫЙ)</name>
+    <words>
+      <value>ЗАПОЗДАЛЫЙ</value>
+      <value>ПОЗДНИЙ</value>
+    </words>
+  </item>
+  <item>
+    <rels>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>ОБОЛОЧКА</value>
+      </value>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>РЕЗИНОТЕХНИЧЕСКИЕ ИЗДЕЛИЯ</value>
+      </value>
+    </rels>
+    <name>РЕЗИНОВАЯ КАМЕРА</name>
+    <words>
+      <value>КАМЕРА</value>
+      <value>КАМЕРА ИЗ РЕЗИНЫ</value>
+      <value>РЕЗИНОВАЯ КАМЕРА</value>
+    </words>
+  </item>
+  <item>
+    <rels>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>ЗАЙТИ ДАЛЕКО, НЕ ТУДА</value>
+      </value>
+    </rels>
+    <name>УГЛУБИТЬСЯ, ЗАЙТИ ВГЛУБЬ</name>
+    <words>
+      <value>ЗАЙТИ ВГЛУБЬ</value>
+      <value>ПРОЙТИ ВГЛУБЬ</value>
+      <value>УГЛУБИТЬСЯ</value>
+      <value>УГЛУБЛЕНИЕ</value>
+      <value>УГЛУБЛЯТЬСЯ</value>
+    </words>
+  </item>
+  <item>
+    <rels>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>СОЗДАТЬ (СДЕЛАТЬ СУЩЕСТВУЮЩИМ)</value>
+      </value>
+      <value>
+        <value>НИЖЕ</value>
+        <value>ИЗДАТЬ ЗВУК</value>
+      </value>
+      <value>
+        <value>НИЖЕ</value>
+        <value>ПАХНУТЬ, ИЗДАВАТЬ ЗАПАХ</value>
+      </value>
+    </rels>
+    <name>ИЗДАВАТЬ, ИСПУСКАТЬ</name>
+    <words>
+      <value>ИЗДАВАТЬ</value>
+      <value>ИЗДАТЬ</value>
+      <value>ИСПУСКАНИЕ</value>
+      <value>ИСПУСКАТЬ</value>
+      <value>ИСПУСТИТЬ</value>
+      <value>ИСТОЧАТЬ</value>
+    </words>
+  </item>
+  <item>
+    <rels>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>ВЫЧИСЛИТЬ, ИСЧИСЛИТЬ</value>
+      </value>
+      <value>
+        <value>ЧАСТЬ</value>
+        <value>ДЕЛЕНИЕ (МАТЕМАТИЧЕСКОЕ ДЕЙСТВИЕ)</value>
+      </value>
+    </rels>
+    <name>ДЕЛИТЬ, ВЫЧИСЛИТЬ ЧАСТНОЕ</name>
+    <words>
+      <value>ВЫЧИСЛИТЬ ЧАСТНОЕ</value>
+      <value>ДЕЛИТЬ</value>
+      <value>РАЗДЕЛИТЬ</value>
+    </words>
+  </item>
+  <item>
+    <rels>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>ИЗДАТЬ ЗВУК</value>
+      </value>
+      <value>
+        <value>ЧАСТЬ</value>
+        <value>СТОН</value>
+      </value>
+    </rels>
+    <name>СТОНАТЬ</name>
+    <words>
+      <value>ЗАСТОНАТЬ</value>
+      <value>ПОСТАНЫВАТЬ</value>
+      <value>ПРОСТОНАТЬ</value>
+      <value>СТЕНАНИЕ</value>
+      <value>СТЕНАТЬ</value>
+      <value>СТОНАТЬ</value>
+    </words>
+  </item>
+  <item>
+    <rels>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>ИЗДАТЬ ЗВУК</value>
+      </value>
+      <value>
+        <value>НИЖЕ</value>
+        <value>ХЛОПАТЬ В ЛАДОШИ</value>
+      </value>
+    </rels>
+    <name>ХЛОПАТЬ (ПРОИЗВОДИТЬ РЕЗКИЙ ЗВУК)</name>
+    <words>
+      <value>ЗАХЛОПАТЬ</value>
+      <value>ПОХЛОПАТЬ</value>
+      <value>ПОХЛОПЫВАТЬ</value>
+      <value>ПРОЗВУЧАЛ ХЛОПОК</value>
+      <value>ПРОИЗОШЕЛ ХЛОПОК</value>
+      <value>ПРОХЛОПАТЬ</value>
+      <value>РАЗДАЛСЯ ХЛОПОК</value>
+      <value>ХЛОПАНЬЕ</value>
+      <value>ХЛОПАТЬ</value>
+      <value>ХЛОПНУТЬ</value>
+    </words>
+  </item>
+  <item>
+    <rels>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>ГРАФИЧЕСКИЙ ЗНАК</value>
+      </value>
+      <value>
+        <value>ЦЕЛОЕ</value>
+        <value>МАТЕМАТИЧЕСКОЕ ВЫРАЖЕНИЕ</value>
+      </value>
+      <value>
+        <value>НИЖЕ</value>
+        <value>МИНУС (МАТЕМАТИЧЕСКИЙ ЗНАК)</value>
+      </value>
+      <value>
+        <value>НИЖЕ</value>
+        <value>ПЛЮС (МАТЕМАТИЧЕСКИЙ ЗНАК)</value>
+      </value>
+    </rels>
+    <name>МАТЕМАТИЧЕСКИЙ ЗНАК</name>
+    <words>
+      <value>МАТЕМАТИЧЕСКИЙ ЗНАК</value>
+    </words>
+  </item>
+  <item>
+    <rels>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>АКТИВНЫЙ, ДЕЯТЕЛЬНЫЙ</value>
+      </value>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>БОЙКИЙ (БЫСТРЫЙ, ЖИВОЙ)</value>
+      </value>
+    </rels>
+    <name>БОЕВОЙ (БОЙКИЙ, СМЕЛЫЙ)</name>
+    <words>
+      <value>БОЕВИТОСТЬ</value>
+      <value>БОЕВИТЫЙ</value>
+      <value>БОЕВОЙ</value>
+    </words>
+  </item>
+  <item>
+    <rels>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>ЧЕРТА ХАРАКТЕРА</value>
+      </value>
+      <value>
+        <value>ЦЕЛОЕ</value>
+        <value>НЕДОВЕРИЕ</value>
+      </value>
+      <value>
+        <value>НИЖЕ</value>
+        <value>ПОДОЗРИТЕЛЬНЫЙ (НЕДОВЕРЧИВЫЙ)</value>
+      </value>
+    </rels>
+    <name>НЕДОВЕРЧИВЫЙ</name>
+    <words>
+      <value>НЕДОВЕРЧИВОСТЬ</value>
+      <value>НЕДОВЕРЧИВЫЙ</value>
+    </words>
+  </item>
+  <item>
+    <rels>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>НРАВСТВЕННЫЙ, ЭТИЧНЫЙ</value>
+      </value>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>ЧЕСТНЫЙ, ПРАВДИВЫЙ</value>
+      </value>
+    </rels>
+    <name>БЛАГОРОДНЫЙ (ВЫСОКОНРАВСТВЕННЫЙ, ЧЕСТНЫЙ)</name>
+    <words>
+      <value>БЛАГОРОДНОСТЬ</value>
+      <value>БЛАГОРОДНЫЙ</value>
+      <value>БЛАГОРОДСТВО</value>
+    </words>
+  </item>
+  <item>
+    <rels>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>УТРАТИТЬ ИМУЩЕСТВО</value>
+      </value>
+      <value>
+        <value>НИЖЕ</value>
+        <value>ЗАБЫТЬ ВЗЯТЬ</value>
+      </value>
+    </rels>
+    <name>ТЕРЯТЬ, УТЕРЯТЬ</name>
+    <words>
+      <value>ЗАТЕРИВАТЬ</value>
+      <value>ЗАТЕРЯТЬ</value>
+      <value>ПОСЕЯТЬ</value>
+      <value>ПОТЕРЯ</value>
+      <value>ПОТЕРЯТЬ</value>
+      <value>ТЕРЯТЬ</value>
+      <value>УТЕРЯ</value>
+      <value>УТЕРЯТЬ</value>
+    </words>
+  </item>
+  <item>
+    <rels>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>АНТИОБЩЕСТВЕННОЕ ЯВЛЕНИЕ</value>
+      </value>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>СКИТАТЬСЯ БЕЗ ЦЕЛИ</value>
+      </value>
+      <value>
+        <value>ЧАСТЬ</value>
+        <value>ЛИЦО БЕЗ ОПРЕДЕЛЕННОГО МЕСТА ЖИТЕЛЬСТВА</value>
+      </value>
+    </rels>
+    <name>БРОДЯЖНИЧЕСТВО</name>
+    <words>
+      <value>БЕЗДОМНИЧАТЬ</value>
+      <value>БЕЗДОМНИЧЕСТВО</value>
+      <value>БОМЖЕВАТЬ</value>
+      <value>БРОДЯЖНИЧАТЬ</value>
+      <value>БРОДЯЖНИЧЕСКИЙ</value>
+      <value>БРОДЯЖНИЧЕСТВО</value>
+    </words>
+  </item>
+  <item>
+    <rels>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>ОБРАЩЕНИЕ К ЖЕНЩИНЕ</value>
+      </value>
+    </rels>
+    <name>ДОЧКА (ОБРАЩЕНИЕ К МОЛОДОЙ ЖЕНЩИНЕ, ДЕВОЧКЕ)</name>
+    <words>
+      <value>ДОЧКА</value>
+    </words>
+  </item>
+  <item>
+    <rels>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>ВЛАЧИТЬ СУЩЕСТВОВАНИЕ</value>
+      </value>
+      <value>
+        <value>ЧАСТЬ</value>
+        <value>ГОЛОДАТЬ, ИЗГОЛОДАТЬСЯ</value>
+      </value>
+      <value>
+        <value>АССОЦ</value>
+        <value>БЕДНОСТЬ, НУЖДА</value>
+      </value>
+    </rels>
+    <name>БЕДСТВОВАТЬ, НУЖДАТЬСЯ</name>
+    <words>
+      <value>БЕДСТВОВАТЬ</value>
+      <value>НУЖДАТЬСЯ</value>
+      <value>ПРОЗЯБАТЬ В БЕДНОСТИ</value>
+      <value>ПРОЗЯБАТЬ В НИЩЕТЕ</value>
+      <value>ТЕРПЕТЬ ЛИШЕНИЯ</value>
+    </words>
+  </item>
+  <item>
+    <rels>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>ДОКУМЕНТ</value>
+      </value>
+      <value>
+        <value>ЦЕЛОЕ</value>
+        <value>ЗАПРОСИТЬ (ЗАТРЕБОВАТЬ)</value>
+      </value>
+    </rels>
+    <name>ТРЕБОВАНИЕ (ОФИЦИАЛЬНЫЙ ДОКУМЕНТ)</name>
+    <words>
+      <value>ТРЕБОВАНИЕ</value>
+    </words>
+  </item>
+  <item>
+    <rels>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>ПСИХИЧЕСКОЕ СОСТОЯНИЕ</value>
+      </value>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>САМОЧУВСТВИЕ</value>
+      </value>
+    </rels>
+    <name>СТРЕСС</name>
+    <words>
+      <value>ПСИХОЛОГИЧЕСКИЙ СТРЕСС</value>
+      <value>СТРЕСС</value>
+      <value>СТРЕССОВАЯ РЕАКЦИЯ</value>
+      <value>СТРЕССОВОЕ СОСТОЯНИЕ</value>
+      <value>СТРЕССОВЫЙ</value>
+      <value>СТРЕССОВЫЙ СИНДРОМ</value>
+    </words>
+  </item>
+  <item>
+    <rels>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>ВЕЛИЧЕСТВЕННЫЙ (ИМЕЮЩ.ВЫДАЮЩ. СВ-ВА, ВНУШ. ПРЕКЛОНЕНИЕ)</value>
+      </value>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>ОГРОМНЫЙ ПО РАЗМЕРУ, СТЕПЕНИ</value>
+      </value>
+    </rels>
+    <name>ГРАНДИОЗНЫЙ (ОГРОМНЫЙ, ВЕЛИЧЕСТВЕННЫЙ)</name>
+    <words>
+      <value>ГРАНДИОЗНЕЙШИЙ</value>
+      <value>ГРАНДИОЗНОСТЬ</value>
+      <value>ГРАНДИОЗНЫЙ</value>
+    </words>
+  </item>
+  <item>
+    <rels>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>ОБРАТИТЬСЯ СО СЛОВАМИ</value>
+      </value>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>ПОСТУПИТЬ, СОВЕРШИТЬ ПОСТУПОК</value>
+      </value>
+    </rels>
+    <name>ОБОЙТИСЬ (ПОСТУПИТЬ)</name>
+    <words>
+      <value>ОБОЙТИСЬ</value>
+      <value>ОБХОДИТЬСЯ</value>
+    </words>
+  </item>
+  <item>
+    <rels>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>УДАЧНЫЙ, УДАВШИЙСЯ</value>
+      </value>
+      <value>
+        <value>АССОЦ</value>
+        <value>ПОБЕДА (УСПЕХ)</value>
+      </value>
+    </rels>
+    <name>ПОБЕДОНОСНЫЙ (УСПЕШНЫЙ)</name>
+    <words>
+      <value>ПОБЕДНЫЙ</value>
+      <value>ПОБЕДОНОСНОСТЬ</value>
+      <value>ПОБЕДОНОСНЫЙ</value>
+    </words>
+  </item>
+  <item>
+    <rels>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>СОДЕЙСТВИЕ</value>
+      </value>
+      <value>
+        <value>НИЖЕ</value>
+        <value>АССИСТИРОВАТЬ</value>
+      </value>
+      <value>
+        <value>НИЖЕ</value>
+        <value>ВЕСТИ (СОПРОВОЖДАТЬ)</value>
+      </value>
+      <value>
+        <value>НИЖЕ</value>
+        <value>ВЗАИМОДЕЙСТВИЕ (ВЗАИМНАЯ ПОДДЕРЖКА)</value>
+      </value>
+      <value>
+        <value>НИЖЕ</value>
+        <value>ВЫРУЧИТЬ, ПРИЙТИ НА ВЫРУЧКУ</value>
+      </value>
+      <value>
+        <value>НИЖЕ</value>
+        <value>ЗАБОТИТЬСЯ, ОКРУЖИТЬ ЗАБОТОЙ</value>
+      </value>
+      <value>
+        <value>НИЖЕ</value>
+        <value>КУРИРОВАТЬ</value>
+      </value>
+      <value>
+        <value>НИЖЕ</value>
+        <value>МЕДИЦИНСКАЯ ПОМОЩЬ</value>
+      </value>
+      <value>
+        <value>НИЖЕ</value>
+        <value>МЕЖДУНАРОДНАЯ ПОМОЩЬ</value>
+      </value>
+      <value>
+        <value>НИЖЕ</value>
+        <value>ОРИЕНТАЦИЯ НА ВИД ДЕЯТЕЛЬНОСТИ</value>
+      </value>
+      <value>
+        <value>НИЖЕ</value>
+        <value>ПОСОБИЕ (ПОМОЩЬ)</value>
+      </value>
+      <value>
+        <value>НИЖЕ</value>
+        <value>УСЛУГА (ДЕЙСТВИЕ, ПРИНОСЯЩЕЕ ПОЛЬЗУ, ПОМОЩЬ)</value>
+      </value>
+      <value>
+        <value>НИЖЕ</value>
+        <value>ФИНАНСОВАЯ ПОМОЩЬ</value>
+      </value>
+      <value>
+        <value>ЧАСТЬ</value>
+        <value>ПОМОЩНИК (ЧЕЛОВЕК)</value>
+      </value>
+      <value>
+        <value>АССОЦ</value>
+        <value>ОПЕРЕТЬСЯ НА ПОДДЕРЖКУ</value>
+      </value>
+    </rels>
+    <name>ПОМОЩЬ, ПОДДЕРЖКА</name>
+    <words>
+      <value>ВСТАТЬ НА СТОРОНУ</value>
+      <value>ОКАЗАНИЕ ПОМОЩИ</value>
+      <value>ОКАЗАТЬ ПОМОЩЬ</value>
+      <value>ПОДАТЬ РУКУ В БЕДЕ</value>
+      <value>ПОДАТЬ РУКУ ПОМОЩИ</value>
+      <value>ПОДДЕРЖАТЬ</value>
+      <value>ПОДДЕРЖКА</value>
+      <value>ПОДМОГА</value>
+      <value>ПОДСОБИТЬ</value>
+      <value>ПОДСОБЛЯТЬ</value>
+      <value>ПОДСПОРЬЕ</value>
+      <value>ПОДСТАВИТЬ ПЛЕЧО</value>
+      <value>ПОДСТАВЛЯТЬ ПЛЕЧО</value>
+      <value>ПОЛЬЗОВАТЬСЯ ПОДДЕРЖКОЙ</value>
+      <value>ПОМОГАТЬ</value>
+      <value>ПОМОЧЬ</value>
+      <value>ПОМОЩЬ</value>
+      <value>ПОСОБИТЬ</value>
+      <value>ПОСОБЛЯТЬ</value>
+      <value>ПРИЙТИ НА ПОМОЩЬ</value>
+      <value>ПРИХОДИТЬ НА ПОМОЩЬ</value>
+      <value>ПРОТЯНУТЬ РУКУ</value>
+      <value>ПРОТЯНУТЬ РУКУ ПОМОЩИ</value>
+    </words>
+  </item>
+  <item>
+    <rels>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>НАКАЗАТЬ (ВОЗДЕЙСТВОВАТЬ)</value>
+      </value>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>УБИТЬ, ЛИШИТЬ ЖИЗНИ</value>
+      </value>
+      <value>
+        <value>ЧАСТЬ</value>
+        <value>СМЕРТНАЯ КАЗНЬ</value>
+      </value>
+    </rels>
+    <name>КАЗНИТЬ (НАКАЗЫВАТЬ)</name>
+    <words>
+      <value>КАЗНИТЬ</value>
+      <value>ПРЕДАВАТЬ КАЗНИ</value>
+      <value>ПРЕДАТЬ КАЗНИ</value>
+    </words>
+  </item>
+  <item>
+    <rels>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>ДРАКА</value>
+      </value>
+    </rels>
+    <name>МАССОВАЯ ДРАКА</name>
+    <words>
+      <value>МАССОВАЯ ДРАКА</value>
+      <value>МАССОВАЯ ПОТАСОВКА</value>
+      <value>МАССОВОЕ ПОБОИЩЕ</value>
+      <value>МАССОВОЕ СТОЛКНОВЕНИЕ</value>
+      <value>ПОБОИЩЕ</value>
+      <value>ПОТАСОВКА</value>
+      <value>СВАЛКА</value>
+    </words>
+  </item>
+  <item>
+    <rels>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>ПРЕСТУПЛЕНИЕ ПРОТИВ ОБЩЕСТВЕННОЙ БЕЗОПАСНОСТИ</value>
+      </value>
+      <value>
+        <value>НИЖЕ</value>
+        <value>ЗАХВАТ МОРСКОГО СУДНА</value>
+      </value>
+      <value>
+        <value>АССОЦ</value>
+        <value>ТРАНСПОРТНАЯ СФЕРА</value>
+      </value>
+      <value>
+        <value>АССОЦ</value>
+        <value>ТРАНСПОРТНОЕ СРЕДСТВО</value>
+      </value>
+    </rels>
+    <name>ПРЕСТУПЛЕНИЕ НА ТРАНСПОРТЕ</name>
+    <words>
+      <value>ПРЕСТУПЛЕНИЕ НА ТРАНСПОРТЕ</value>
+      <value>ТРАНСПОРТНОЕ ПРЕСТУПЛЕНИЕ</value>
+    </words>
+  </item>
+  <item>
+    <rels>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>ВОИН (ЧЕЛОВЕК)</value>
+      </value>
+      <value>
+        <value>ЦЕЛОЕ</value>
+        <value>СРЕДНЕВЕКОВЬЕ</value>
+      </value>
+      <value>
+        <value>АССОЦ</value>
+        <value>РЫЦАРСКИЙ ТУРНИР</value>
+      </value>
+    </rels>
+    <name>РЫЦАРЬ-ФЕОДАЛ</name>
+    <words>
+      <value>РЫЦАРСКИЙ</value>
+      <value>РЫЦАРСТВО</value>
+      <value>РЫЦАРЬ</value>
+      <value>РЫЦАРЬ-ФЕОДАЛ</value>
+    </words>
+  </item>
+  <item>
+    <rels>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>ПОРУЧИТЬ</value>
+      </value>
+      <value>
+        <value>ЦЕЛОЕ</value>
+        <value>ОБСЛУЖИТЬ (УДОВЛЕТВОРИТЬ НУЖДЫ)</value>
+      </value>
+      <value>
+        <value>НИЖЕ</value>
+        <value>ВЫПИСАТЬ (ПИСЬМЕННО ЗАКАЗАТЬ ДОСТАВКУ)</value>
+      </value>
+      <value>
+        <value>НИЖЕ</value>
+        <value>ГОСУДАРСТВЕННЫЙ ЗАКАЗ</value>
+      </value>
+      <value>
+        <value>ЧАСТЬ</value>
+        <value>ЗАКАЗ, ЗАКАЗАННАЯ ВЕЩЬ</value>
+      </value>
+      <value>
+        <value>ЧАСТЬ</value>
+        <value>ЗАКАЗЧИК</value>
+      </value>
+      <value>
+        <value>АССОЦ</value>
+        <value>ПРОДАЖА ПО ЗАКАЗАМ</value>
+      </value>
+    </rels>
+    <name>ЗАКАЗАТЬ, СДЕЛАТЬ ЗАКАЗ</name>
+    <words>
+      <value>ДЕЛАТЬ ЗАКАЗ</value>
+      <value>ЗАКАЗ</value>
+      <value>ЗАКАЗАТЬ</value>
+      <value>ЗАКАЗНОЙ</value>
+      <value>ЗАКАЗЫВАНИЕ</value>
+      <value>ЗАКАЗЫВАТЬ</value>
+      <value>СДЕЛАТЬ ЗАКАЗ</value>
+    </words>
+  </item>
+  <item>
+    <rels>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>ЖИДКОСТЬ В ОРГАНИЗМЕ</value>
+      </value>
+      <value>
+        <value>АССОЦ</value>
+        <value>МЛЕКОПИТАЮЩЕЕ</value>
+      </value>
+      <value>
+        <value>АССОЦ</value>
+        <value>МОЛОКО (ПРОДУКЦИЯ)</value>
+      </value>
+    </rels>
+    <name>МОЛОКО МЛЕКОПИТАЮЩИХ</name>
+    <words>
+      <value>МОЛОКО</value>
+      <value>МОЛОКО ЖИВОТНЫХ</value>
+      <value>МОЛОКО МЛЕКОПИТАЮЩИХ</value>
+      <value>МОЛОЧКО</value>
+      <value>МОЛОЧНЫЙ</value>
+    </words>
+  </item>
+  <item>
+    <rels>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>ТКАНЬ ОРГАНИЗМА</value>
+      </value>
+    </rels>
+    <name>СВЯЗКА (ТКАНЬ ОРГАНИЗМА)</name>
+    <words>
+      <value>СВЯЗКА</value>
+      <value>СВЯЗОЧНЫЙ</value>
+    </words>
+  </item>
+  <item>
+    <rels>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>МЕСТО В ПРОСТРАНСТВЕ</value>
+      </value>
+      <value>
+        <value>ЦЕЛОЕ</value>
+        <value>РОЗНИЧНАЯ ТОРГОВЛЯ</value>
+      </value>
+      <value>
+        <value>НИЖЕ</value>
+        <value>ЯРМАРКА-ПРОДАЖА</value>
+      </value>
+      <value>
+        <value>АССОЦ</value>
+        <value>ПРЕДПРИЯТИЕ РОЗНИЧНОЙ ТОРГОВЛИ</value>
+      </value>
+    </rels>
+    <name>РЫНОК, БАЗАР</name>
+    <words>
+      <value>БАЗАР</value>
+      <value>БАЗАРЧИК</value>
+      <value>РЫНОК</value>
+      <value>РЫНОЧЕК</value>
+      <value>РЫНОЧНЫЙ</value>
+    </words>
+  </item>
+  <item>
+    <rels>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>МЕБЕЛЬ ДЛЯ СИДЕНИЯ</value>
+      </value>
+      <value>
+        <value>АССОЦ</value>
+        <value>ТРИБУНА ДЛЯ ЗРИТЕЛЕЙ</value>
+      </value>
+    </rels>
+    <name>СКАМЕЙКА</name>
+    <words>
+      <value>СКАМЕЕЧКА</value>
+      <value>СКАМЕЙКА</value>
+      <value>СКАМЬЯ</value>
+    </words>
+  </item>
+  <item>
+    <rels>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>ГАРНИТУР</value>
+      </value>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>МЕБЕЛЬ</value>
+      </value>
+      <value>
+        <value>НИЖЕ</value>
+        <value>КУХОННАЯ МЕБЕЛЬ</value>
+      </value>
+      <value>
+        <value>НИЖЕ</value>
+        <value>СТЕНКА (ШКАФ)</value>
+      </value>
+    </rels>
+    <name>МЕБЕЛЬНЫЙ ГАРНИТУР</name>
+    <words>
+      <value>ГАРНИТУР</value>
+      <value>МЕБЕЛЬНЫЙ ГАРНИТУР</value>
+      <value>НАБОР МЕБЕЛИ</value>
+      <value>НАБОР МЕБЕЛЬНЫХ ИЗДЕЛИЙ</value>
+    </words>
+  </item>
+  <item>
+    <rels>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>ПОЛИТИЧЕСКОЕ ТЕЧЕНИЕ</value>
+      </value>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>УЧЕНИЕ (СОВОКУПНОСТЬ ТЕОРЕТИЧ. ПОЛОЖЕНИЙ)</value>
+      </value>
+      <value>
+        <value>НИЖЕ</value>
+        <value>МАРКСИЗМ</value>
+      </value>
+      <value>
+        <value>АССОЦ</value>
+        <value>КОММУНИСТИЧЕСКИЙ СТРОЙ</value>
+      </value>
+    </rels>
+    <name>КОММУНИСТИЧЕСКОЕ УЧЕНИЕ</name>
+    <words>
+      <value>КОММУНИЗМ</value>
+      <value>КОММУНИСТИЧЕСКИЙ</value>
+      <value>КОММУНИСТИЧЕСКОЕ УЧЕНИЕ</value>
+    </words>
+  </item>
+  <item>
+    <rels>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>ОБОРОТ (ЗАКОНЧЕННЫЙ ЦИКЛ ОПЕРАЦИЙ )</value>
+      </value>
+      <value>
+        <value>ЦЕЛОЕ</value>
+        <value>ДЕНЕЖНО-ТОВАРНОЕ ОБРАЩЕНИЕ</value>
+      </value>
+      <value>
+        <value>НИЖЕ</value>
+        <value>БЕЗНАЛИЧНОЕ ОБРАЩЕНИЕ</value>
+      </value>
+      <value>
+        <value>АССОЦ</value>
+        <value>ДВИЖЕНИЕ ДЕНЕЖНЫХ СРЕДСТВ</value>
+      </value>
+    </rels>
+    <name>ДЕНЕЖНОЕ ОБРАЩЕНИЕ</name>
+    <words>
+      <value>ДЕНЕЖНОЕ ОБРАЩЕНИЕ</value>
+      <value>ДЕНЕЖНЫЙ ОБОРОТ</value>
+      <value>ДЕНЬГИ В ОБРАЩЕНИИ</value>
+      <value>ОБОРОТ ДЕНЕГ</value>
+      <value>ОБОРОТ ДЕНЕЖНЫХ СРЕДСТВ</value>
+      <value>ХОЖДЕНИЕ ДЕНЕГ</value>
+    </words>
+  </item>
+  <item>
+    <rels>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>ОДЕЖДА</value>
+      </value>
+      <value>
+        <value>НИЖЕ</value>
+        <value>КОСТЮМ (ВЕРХНЯЯ ОДЕЖДА)</value>
+      </value>
+      <value>
+        <value>НИЖЕ</value>
+        <value>КУРТКА</value>
+      </value>
+      <value>
+        <value>АССОЦ</value>
+        <value>ДРАП</value>
+      </value>
+    </rels>
+    <name>ВЕРХНЯЯ ОДЕЖДА</name>
+    <words>
+      <value>ВЕРХНЯЯ ОДЕЖДА</value>
+      <value>ТЕПЛАЯ ОДЕЖДА</value>
+      <value>ТЕПЛЫЕ ВЕЩИ</value>
+    </words>
+  </item>
+  <item>
+    <rels>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>РАБОТНИК</value>
+      </value>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>НАУЧНЫЙ РАБОТНИК</value>
+      </value>
+      <value>
+        <value>ЦЕЛОЕ</value>
+        <value>ПСИХОЛОГИЧЕСКАЯ ПОМОЩЬ</value>
+      </value>
+      <value>
+        <value>ЦЕЛОЕ</value>
+        <value>ПСИХОЛОГИЧЕСКИЕ НАУКИ</value>
+      </value>
+    </rels>
+    <name>ПСИХОЛОГ</name>
+    <words>
+      <value>ПСИХОЛОГ</value>
+    </words>
+  </item>
+  <item>
+    <rels>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>МЕДИЦИНСКАЯ ПРОДУКЦИЯ</value>
+      </value>
+      <value>
+        <value>ЦЕЛОЕ</value>
+        <value>ПЕРЕВЯЗАТЬ, НАЛОЖИТЬ ПОВЯЗКУ</value>
+      </value>
+      <value>
+        <value>ЧАСТЬ</value>
+        <value>ПЕРЕВЯЗОЧНЫЙ МАТЕРИАЛ</value>
+      </value>
+      <value>
+        <value>АССОЦ</value>
+        <value>ПОВЯЗКА (ПОЛОСКА ТКАНИ)</value>
+      </value>
+    </rels>
+    <name>МЕДИЦИНСКАЯ ПОВЯЗКА</name>
+    <words>
+      <value>МЕДИЦИНСКАЯ ПОВЯЗКА</value>
+      <value>ПОВЯЗКА</value>
+    </words>
+  </item>
+  <item>
+    <rels>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>ПЕРЕШИТЬ</value>
+      </value>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>РАСШИРИТЬ, УВЕЛИЧИТЬ В ШИРИНУ</value>
+      </value>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>УДЛИНИТЬ, УВЕЛИЧИТЬ В ДЛИНУ</value>
+      </value>
+      <value>
+        <value>АССОЦ</value>
+        <value>ОДЕЖДА</value>
+      </value>
+      <value>
+        <value>АССОЦ</value>
+        <value>РАСПОРОТЬ ШВЫ</value>
+      </value>
+      <value>
+        <value>АССОЦ</value>
+        <value>ШОВ (МЕСТО СОЕДИНЕНИЯ)</value>
+      </value>
+    </rels>
+    <name>ВЫПУСТИТЬ ШВЫ</name>
+    <words>
+      <value>ВЫПУСК</value>
+      <value>ВЫПУСКАТЬ</value>
+      <value>ВЫПУСТИТЬ</value>
+      <value>ВЫПУСТИТЬ ШВЫ</value>
+      <value>ОТПУСТИТЬ В ДЛИНУ</value>
+      <value>РАСПУСТИТЬ ШВЫ</value>
+    </words>
+  </item>
+  <item>
+    <rels>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>ВЗРЫВЧАТОЕ ВЕЩЕСТВО</value>
+      </value>
+    </rels>
+    <name>ЗАРЯД ВЗРЫВЧАТОГО ВЕЩЕСТВА</name>
+    <words>
+      <value>ВЗРЫВЧАТЫЙ ЗАРЯД</value>
+      <value>ЗАРЯД</value>
+      <value>ЗАРЯД ВЗРЫВЧАТКИ</value>
+      <value>ЗАРЯД ВЗРЫВЧАТОГО ВЕЩЕСТВА</value>
+      <value>ЗАРЯДНЫЙ</value>
+    </words>
+  </item>
+  <item>
+    <rels>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>РЕСУРСОСБЕРЕЖЕНИЕ</value>
+      </value>
+      <value>
+        <value>ЦЕЛОЕ</value>
+        <value>ЭНЕРГЕТИЧЕСКОЕ ОБЕСПЕЧЕНИЕ</value>
+      </value>
+      <value>
+        <value>АССОЦ</value>
+        <value>ЭНЕРГОПОТРЕБЛЕНИЕ</value>
+      </value>
+    </rels>
+    <name>ЭНЕРГОСБЕРЕЖЕНИЕ</name>
+    <words>
+      <value>СБЕРЕЖЕНИЕ ЭНЕРГИИ</value>
+      <value>ЭКОНОМИТЬ ЭНЕРГИЮ</value>
+      <value>ЭКОНОМИЯ ЭНЕРГИИ</value>
+      <value>ЭКОНОМИЯ ЭНЕРГОЗАТРАТ</value>
+      <value>ЭКОНОМИЯ ЭНЕРГОРЕСУРСОВ</value>
+      <value>ЭНЕРГОРЕСУРСОСБЕРЕЖЕНИЕ</value>
+      <value>ЭНЕРГОСБЕРЕГАЮЩИЙ</value>
+      <value>ЭНЕРГОСБЕРЕЖЕНИЕ</value>
+      <value>ЭНЕРГОЭКОНОМИЧНЫЙ</value>
+      <value>ЭНЕРГОЭФФЕКТИВНОСТЬ</value>
+      <value>ЭНЕРГОЭФФЕКТИВНЫЙ</value>
+    </words>
+  </item>
+  <item>
+    <rels>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>ФИЗИЧЕСКОЕ ЯВЛЕНИЕ, ПРОЦЕСС</value>
+      </value>
+      <value>
+        <value>АССОЦ</value>
+        <value>ЗАРЯД ЭЛЕКТРИЧЕСТВА</value>
+      </value>
+      <value>
+        <value>АССОЦ</value>
+        <value>РАЗРЯДИТЬ (ОСВОБОДИТЬ ОТ ЭЛЕКТРИЧЕСКОГО ЗАРЯДА)</value>
+      </value>
+    </rels>
+    <name>ЭЛЕКТРИЧЕСКИЙ РАЗРЯД</name>
+    <words>
+      <value>РАЗРЯД ЭЛЕКТРИЧЕСТВА</value>
+      <value>РАЗРЯДИТЬСЯ</value>
+      <value>РАЗРЯДКА</value>
+      <value>РАЗРЯЖАТЬСЯ</value>
+      <value>ЭЛЕКТРИЧЕСКИЙ РАЗРЯД</value>
+    </words>
+  </item>
+  <item>
+    <rels>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>УДОВЛЕТВОРИТЬ, ОТВЕЧАТЬ ТРЕБОВАНИЯМ</value>
+      </value>
+      <value>
+        <value>НИЖЕ</value>
+        <value>СИДЕТЬ (ПОДХОДИТЬ ОБ ОДЕЖДЕ)</value>
+      </value>
+      <value>
+        <value>НИЖЕ</value>
+        <value>СОЙТИ (ОКАЗАТЬСЯ ПРИЕМЛЕМЫМ, ПРОЙТИ, ЗАКОНЧИТЬСЯ УДАЧНО)</value>
+      </value>
+      <value>
+        <value>ЧАСТЬ</value>
+        <value>ГОДНЫЙ</value>
+      </value>
+    </rels>
+    <name>ПОДОЙТИ (СООТВЕТСТВОВАТЬ)</name>
+    <words>
+      <value>ГОДИТЬСЯ</value>
+      <value>ПОДОЙТИ</value>
+      <value>ПОДХОДИТЬ</value>
+      <value>ПРИГОДИТЬСЯ</value>
+      <value>ПРИГОЖДАТЬСЯ</value>
+      <value>СГОДИТЬСЯ</value>
+    </words>
+  </item>
+  <item>
+    <rels>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>ПОДХОДЯЩИЙ</value>
+      </value>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>СООТВЕТСТВУЮЩИЙ</value>
+      </value>
+      <value>
+        <value>АССОЦ</value>
+        <value>НЕУМЕСТНЫЙ</value>
+      </value>
+    </rels>
+    <name>УМЕСТНЫЙ, УДОБНЫЙ</name>
+    <words>
+      <value>УДОБНОСТЬ</value>
+      <value>УДОБНЫЙ</value>
+      <value>УМЕСТНОСТЬ</value>
+      <value>УМЕСТНЫЙ</value>
+    </words>
+  </item>
+  <item>
+    <rels>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>ЖАЛОВАТЬСЯ (ВЫСКАЗЫВАТЬ НЕУДОВОЛЬСТВИЕ)</value>
+      </value>
+    </rels>
+    <name>СЕТОВАТЬ, РОПТАТЬ</name>
+    <words>
+      <value>ВОЗРОПТАТЬ</value>
+      <value>ПОСЕТОВАТЬ</value>
+      <value>РОПТАНЬЕ</value>
+      <value>РОПТАТЬ</value>
+      <value>СЕТОВАНИЕ</value>
+      <value>СЕТОВАТЬ</value>
+    </words>
+  </item>
+  <item>
+    <rels>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>КОМНАТА (ПОМЕЩЕНИЕ)</value>
+      </value>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>УЧЕБНОЕ ПОМЕЩЕНИЕ</value>
+      </value>
+      <value>
+        <value>ЦЕЛОЕ</value>
+        <value>СРЕДНЕЕ УЧЕБНОЕ ЗАВЕДЕНИЕ</value>
+      </value>
+      <value>
+        <value>ЦЕЛОЕ</value>
+        <value>ШКОЛЬНОЕ ЗДАНИЕ</value>
+      </value>
+      <value>
+        <value>АССОЦ</value>
+        <value>КЛАСС УЧЕНИКОВ</value>
+      </value>
+    </rels>
+    <name>КЛАСС ДЛЯ ЗАНЯТИЙ</name>
+    <words>
+      <value>КАБИНЕТ ДЛЯ ЗАНЯТИЙ</value>
+      <value>КАБИНЕТ ШКОЛЫ</value>
+      <value>КЛАСС</value>
+      <value>КЛАСС ДЛЯ ЗАНЯТИЙ</value>
+      <value>КЛАССНАЯ КОМНАТА</value>
+      <value>УЧЕБНЫЙ КАБИНЕТ</value>
+      <value>ШКОЛЬНЫЙ КАБИНЕТ</value>
+    </words>
+  </item>
+  <item>
+    <rels>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>ОТДЕЛЕНИЕ БОЛЬНИЦЫ</value>
+      </value>
+      <value>
+        <value>ЦЕЛОЕ</value>
+        <value>РЕАНИМАЦИЯ</value>
+      </value>
+    </rels>
+    <name>ОТДЕЛЕНИЕ РЕАНИМАЦИИ</name>
+    <words>
+      <value>ОТДЕЛЕНИЕ ИНТЕНСИВНОЙ ТЕРАПИИ</value>
+      <value>ОТДЕЛЕНИЕ РЕАНИМАЦИИ</value>
+      <value>РЕАНИМАЦИОННОЕ ОТДЕЛЕНИЕ</value>
+      <value>РЕАНИМАЦИЯ</value>
+    </words>
+  </item>
+  <item>
+    <rels>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>ДИПЛОМ ОБ ОКОНЧАНИИ ОБУЧЕНИЯ</value>
+      </value>
+      <value>
+        <value>ЦЕЛОЕ</value>
+        <value>ВЫСШЕЕ ОБРАЗОВАНИЕ</value>
+      </value>
+    </rels>
+    <name>ДИПЛОМ О ВЫСШЕМ ОБРАЗОВАНИИ</name>
+    <words>
+      <value>ДИПЛОМ</value>
+      <value>ДИПЛОМ О ВЫСШЕМ ОБРАЗОВАНИИ</value>
+      <value>ДИПЛОМ ОБ ОКОНЧАНИИ ВУЗА</value>
+    </words>
+  </item>
+  <item>
+    <rels>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>ЧЛЕН ПРЕДЛОЖЕНИЯ</value>
+      </value>
+    </rels>
+    <name>ДОПОЛНЕНИЕ (ЧЛЕН ПРЕДЛОЖЕНИЯ)</name>
+    <words>
+      <value>ДОПОЛНЕНИЕ</value>
+      <value>ДОПОЛНИТЕЛЬНЫЙ</value>
+    </words>
+  </item>
+  <item>
+    <rels>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>ЧЛЕН ПРЕДЛОЖЕНИЯ</value>
+      </value>
+    </rels>
+    <name>ОБСТОЯТЕЛЬСТВО (ЧЛЕН ПРЕДЛОЖЕНИЯ)</name>
+    <words>
+      <value>ОБСТОЯТЕЛЬСТВО</value>
+    </words>
+  </item>
+  <item>
+    <rels>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>ПОМЕЩЕНИЕ, ВНУТРЕННОСТЬ ЗДАНИЯ</value>
+      </value>
+      <value>
+        <value>ЦЕЛОЕ</value>
+        <value>ПРЕДПРИЯТИЕ</value>
+      </value>
+      <value>
+        <value>ЦЕЛОЕ</value>
+        <value>ПРОИЗВОДСТВЕННОЕ ЗДАНИЕ</value>
+      </value>
+      <value>
+        <value>НИЖЕ</value>
+        <value>ЦЕХ</value>
+      </value>
+    </rels>
+    <name>ПРОИЗВОДСТВЕННОЕ ПОМЕЩЕНИЕ</name>
+    <words>
+      <value>ПОМЕЩЕНИЕ ПРОИЗВОДСТВЕННОГО НАЗНАЧЕНИЯ</value>
+      <value>ПРОИЗВОДСТВЕННАЯ ПЛОЩАДЬ</value>
+      <value>ПРОИЗВОДСТВЕННОЕ ПОМЕЩЕНИЕ</value>
+    </words>
+  </item>
+  <item>
+    <rels>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>БЕЗОТЛУЧНОЕ ПРЕБЫВАНИЕ</value>
+      </value>
+      <value>
+        <value>АССОЦ</value>
+        <value>МЕСТО ПОСТОЯННОГО ЖИТЕЛЬСТВА</value>
+      </value>
+    </rels>
+    <name>НЕВЫЕЗД</name>
+    <words>
+      <value>БЕЗВЫЕЗДНОЕ ПРОЖИВАНИЕ</value>
+      <value>НЕВЫЕЗД</value>
+    </words>
+  </item>
+  <item>
+    <rels>
+      <value>
+        <value>АССОЦ</value>
+        <value>ХОЛСТ (КАРТИНА)</value>
+      </value>
+    </rels>
+    <name>ХОЛСТ (ЛЬНЯНАЯ ТКАНЬ)</name>
+    <words>
+      <value>ХОЛСТ</value>
+      <value>ХОЛСТИНА</value>
+      <value>ХОЛСТИННЫЙ</value>
+      <value>ХОЛЩОВЫЙ</value>
+    </words>
+  </item>
+  <item>
+    <rels>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>РЫНОК, БАЗАР</value>
+      </value>
+    </rels>
+    <name>ЯРМАРКА-ПРОДАЖА</name>
+    <words>
+      <value>СЕЗОННАЯ ЯРМАРКА</value>
+      <value>ЯРМАРКА</value>
+      <value>ЯРМАРКА-ПРОДАЖА</value>
+      <value>ЯРМАРОЧНЫЙ</value>
+    </words>
+  </item>
+  <item>
+    <rels>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>КРАСКА, КРАСЯЩИЙ СОСТАВ</value>
+      </value>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>МАЛЯРНАЯ КРАСКА</value>
+      </value>
+      <value>
+        <value>ЦЕЛОЕ</value>
+        <value>МАСЛЯНАЯ ЖИВОПИСЬ</value>
+      </value>
+      <value>
+        <value>АССОЦ</value>
+        <value>МАСЛО (ЖИДКИЙ ЖИР)</value>
+      </value>
+    </rels>
+    <name>МАСЛЯНАЯ КРАСКА</name>
+    <words>
+      <value>МАСЛО</value>
+      <value>МАСЛЯНАЯ КРАСКА</value>
+      <value>МАСЛЯНЫЙ</value>
+    </words>
+  </item>
+  <item>
+    <rels>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>ПЛАКАТ</value>
+      </value>
+      <value>
+        <value>АССОЦ</value>
+        <value>ПРИЗЫВ, ЛОЗУНГ</value>
+      </value>
+    </rels>
+    <name>ЛОЗУНГ, ПЛАКАТ С ПРИЗЫВОМ</name>
+    <words>
+      <value>ЛОЗУНГ</value>
+      <value>ЛОЗУНГ С ПРИЗЫВОМ</value>
+      <value>ЛОЗУНГОВЫЙ</value>
+      <value>ПЛАКАТ С ЛОЗУНГОМ</value>
+      <value>ПЛАКАТ С ПРИЗЫВОМ</value>
+    </words>
+  </item>
+  <item>
+    <rels>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>СЧИТАТЬ, ПРИЗНАВАТЬ</value>
+      </value>
+      <value>
+        <value>ЧАСТЬ</value>
+        <value>ОПРАВДАНИЕ (ДОВОД)</value>
+      </value>
+      <value>
+        <value>АССОЦ</value>
+        <value>НЕВИНОВНОСТЬ</value>
+      </value>
+      <value>
+        <value>АССОЦ</value>
+        <value>ОПРАВДАТЬ (ПРИЗНАТЬ ДОПУСТИМЫМ, ВОЗМОЖНЫМ)</value>
+      </value>
+    </rels>
+    <name>ОПРАВДАТЬ, НАЙТИ ОПРАВДАНИЕ</name>
+    <words>
+      <value>ИЗВИНИТЬ</value>
+      <value>ИЗВИНЯТЬ</value>
+      <value>НАЙТИ ОПРАВДАНИЕ</value>
+      <value>НАХОДИТЬ ОПРАВДАНИЕ</value>
+      <value>ОБЕЛИТЬ</value>
+      <value>ОБЕЛЯТЬ</value>
+      <value>ОПРАВДАНИЕ</value>
+      <value>ОПРАВДАТЕЛЬНЫЙ</value>
+      <value>ОПРАВДАТЬ</value>
+      <value>ОПРАВДЫВАТЬ</value>
+    </words>
+  </item>
+  <item>
+    <rels>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>ЖИВОТНОВОДСТВО</value>
+      </value>
+      <value>
+        <value>НИЖЕ</value>
+        <value>МОЛОЧНОЕ ЖИВОТНОВОДСТВО</value>
+      </value>
+      <value>
+        <value>ЧАСТЬ</value>
+        <value>ДОМАШНИЙ СКОТ</value>
+      </value>
+    </rels>
+    <name>СКОТОВОДСТВО</name>
+    <words>
+      <value>СКОТОВОДСТВО</value>
+      <value>СКОТОВОДЧЕСКИЙ</value>
+    </words>
+  </item>
+  <item>
+    <rels>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>ВЕРХНЯЯ ОДЕЖДА</value>
+      </value>
+    </rels>
+    <name>КУРТКА</name>
+    <words>
+      <value>КУРТКА</value>
+      <value>КУРТОЧКА</value>
+      <value>КУРТОЧНЫЙ</value>
+    </words>
+  </item>
+  <item>
+    <rels>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>ВЕРХНЯЯ ОДЕЖДА</value>
+      </value>
+      <value>
+        <value>НИЖЕ</value>
+        <value>КОСТЮМ-ТРОЙКА</value>
+      </value>
+    </rels>
+    <name>КОСТЮМ (ВЕРХНЯЯ ОДЕЖДА)</name>
+    <words>
+      <value>КОСТЮМ</value>
+      <value>КОСТЮМНЫЙ</value>
+      <value>КОСТЮМЧИК</value>
+    </words>
+  </item>
+  <item>
+    <rels>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>КУШАНЬЕ</value>
+      </value>
+      <value>
+        <value>НИЖЕ</value>
+        <value>ГРЕЧНЕВАЯ КАША</value>
+      </value>
+      <value>
+        <value>АССОЦ</value>
+        <value>КРУПА</value>
+      </value>
+    </rels>
+    <name>КАША</name>
+    <words>
+      <value>КАША</value>
+    </words>
+  </item>
+  <item>
+    <rels>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>НАКЛАДКА, НАКЛАДНАЯ ЧАСТЬ</value>
+      </value>
+      <value>
+        <value>НИЖЕ</value>
+        <value>МАСКА, СКРЫВАЮЩАЯ ЛИЦО</value>
+      </value>
+    </rels>
+    <name>МАСКА (НАКЛАДКА)</name>
+    <words>
+      <value>МАСКА</value>
+    </words>
+  </item>
+  <item>
+    <rels>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>РАЗВЕВАТЬ (КОЛЫХАТЬ)</value>
+      </value>
+      <value>
+        <value>АССОЦ</value>
+        <value>ВЕТЕР</value>
+      </value>
+      <value>
+        <value>АССОЦ</value>
+        <value>ЗАМЕСТИ (ЗАСЫПАТЬ)</value>
+      </value>
+      <value>
+        <value>АССОЦ</value>
+        <value>МЕТЕЛЬ</value>
+      </value>
+    </rels>
+    <name>МЕСТИ (РАЗВЕВАТЬ)</name>
+    <words>
+      <value>ВЕТЕР МЕТЕТ</value>
+      <value>МЕСТИ</value>
+    </words>
+  </item>
+  <item>
+    <rels>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>ВЫВОД, ЗАКЛЮЧЕНИЕ</value>
+      </value>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>ПРЕДСКАЗАНИЕ (ТО, ЧТО ПРЕДСКАЗАНО)</value>
+      </value>
+      <value>
+        <value>ЦЕЛОЕ</value>
+        <value>ПРОГНОЗИРОВАТЬ</value>
+      </value>
+      <value>
+        <value>НИЖЕ</value>
+        <value>ПРОГНОЗ ПОГОДЫ</value>
+      </value>
+    </rels>
+    <name>ПРОГНОЗ</name>
+    <words>
+      <value>ПРОГНОЗ</value>
+      <value>ПРОГНОЗНЫЙ</value>
+      <value>ПРОГНОСТИЧЕСКИЙ</value>
+    </words>
+  </item>
+  <item>
+    <rels>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>АВИАЦИЯ (СФЕРА ДЕЯТЕЛЬНОСТИ)</value>
+      </value>
+      <value>
+        <value>ЦЕЛОЕ</value>
+        <value>АВИАЦИОННЫЕ ПЕРЕВОЗКИ</value>
+      </value>
+      <value>
+        <value>ЦЕЛОЕ</value>
+        <value>ГРАЖДАНСКАЯ СФЕРА</value>
+      </value>
+      <value>
+        <value>ЧАСТЬ</value>
+        <value>ГРАЖДАНСКОЕ ВОЗДУШНОЕ СУДНО</value>
+      </value>
+    </rels>
+    <name>ГРАЖДАНСКАЯ АВИАЦИЯ</name>
+    <words>
+      <value>АВИАЦИЯ ГРАЖДАНСКАЯ</value>
+      <value>ГРАЖДАНСКАЯ АВИАЦИЯ</value>
+      <value>ГРАЖДАНСКИЙ ВОЗДУШНЫЙ ФЛОТ</value>
+    </words>
+  </item>
+  <item>
+    <rels>
+      <value>
+        <value>АССОЦ</value>
+        <value>СПЕРМА</value>
+      </value>
+    </rels>
+    <name>МУЖСКИЕ ПОЛОВЫЕ ОРГАНЫ</name>
+    <words>
+      <value>МУЖСКИЕ ПОЛОВЫЕ ОРГАНЫ</value>
+    </words>
+  </item>
+  <item>
+    <rels>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>СТРОЕНИЕ, СТРУКТУРА</value>
+      </value>
+      <value>
+        <value>НИЖЕ</value>
+        <value>ДВОЙНОЙ, ИЗ ДВУХ ЧАСТЕЙ</value>
+      </value>
+      <value>
+        <value>НИЖЕ</value>
+        <value>МНОГОСТУПЕНЧАТЫЙ (СОСТАВНОЙ)</value>
+      </value>
+      <value>
+        <value>НИЖЕ</value>
+        <value>СЛОЖНЫЙ ПО СОСТАВУ, СТРУКТУРЕ</value>
+      </value>
+    </rels>
+    <name>СОСТАВНОЙ, ИЗ НЕСКОЛЬКИХ ЧАСТЕЙ</name>
+    <words>
+      <value>ИЗ НЕСКОЛЬКИХ ЧАСТЕЙ</value>
+      <value>СОСТАВНОЙ</value>
+    </words>
+  </item>
+  <item>
+    <rels>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>ВОЛЕЙБОЛЬНЫЙ КЛУБ</value>
+      </value>
+      <value>
+        <value>АССОЦ</value>
+        <value>КАЗАНЬ</value>
+      </value>
+    </rels>
+    <name>ВОЛЕЙБОЛЬНЫЙ КЛУБ ЗЕНИТ</name>
+    <words>
+      <value>ВК ЗЕНИТ</value>
+      <value>ВОЛЕЙБОЛЬНЫЙ КЛУБ ЗЕНИТ</value>
+      <value>ЗЕНИТ</value>
+      <value>ЗЕНИТ (КАЗАНЬ)</value>
+      <value>КАЗАНСКИЙ ЗЕНИТ</value>
+    </words>
+  </item>
+  <item>
+    <rels>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>КОЛИЧЕСТВЕННЫЙ ПАРАМЕТР</value>
+      </value>
+      <value>
+        <value>АССОЦ</value>
+        <value>ДЛИНА</value>
+      </value>
+      <value>
+        <value>АССОЦ</value>
+        <value>ШИРИНА</value>
+      </value>
+      <value>
+        <value>АССОЦ</value>
+        <value>ЕДИНИЦА ПЛОЩАДИ</value>
+      </value>
+    </rels>
+    <name>ПЛОЩАДЬ (ПАРАМЕТР)</name>
+    <words>
+      <value>ОБЩАЯ ПЛОЩАДЬ</value>
+      <value>ПЛОЩАДНОЙ</value>
+      <value>ПЛОЩАДЬ</value>
+    </words>
+  </item>
+  <item>
+    <rels>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>ГРАФИЧЕСКИЙ ЗНАК</value>
+      </value>
+      <value>
+        <value>АССОЦ</value>
+        <value>ЧИСЛО (ПОНЯТИЕ МАТЕМАТИКИ)</value>
+      </value>
+    </rels>
+    <name>ЦИФРА (ЗНАК)</name>
+    <words>
+      <value>ЦИФИРЬ</value>
+      <value>ЦИФРА</value>
+      <value>ЦИФРОВОЙ</value>
+    </words>
+  </item>
+  <item>
+    <rels>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>ДОБАВИТЬ</value>
+      </value>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>СЧИТАТЬ, ОПРЕДЕЛЯТЬ КОЛИЧЕСТВО</value>
+      </value>
+      <value>
+        <value>НИЖЕ</value>
+        <value>НАБАВИТЬ, НАДБАВИТЬ</value>
+      </value>
+    </rels>
+    <name>НАЧИСЛИТЬ (НАСЧИТАТЬ)</name>
+    <words>
+      <value>НАЧИСЛЕНИЕ</value>
+      <value>НАЧИСЛИТЬ</value>
+      <value>НАЧИСЛЯТЬ</value>
+    </words>
+  </item>
+  <item>
+    <rels>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>ЕДИНИЦА ИЗМЕРЕНИЯ</value>
+      </value>
+      <value>
+        <value>НИЖЕ</value>
+        <value>ЛОШАДИНАЯ СИЛА (ЕДИНИЦА МОЩНОСТИ)</value>
+      </value>
+      <value>
+        <value>АССОЦ</value>
+        <value>МОЩНОСТЬ (ВЕЛИЧИНА)</value>
+      </value>
+    </rels>
+    <name>ЕДИНИЦА МОЩНОСТИ</name>
+    <words>
+      <value>ЕДИНИЦА МОЩНОСТИ</value>
+      <value>МЕРА МОЩНОСТИ</value>
+    </words>
+  </item>
+  <item>
+    <rels>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>ВОЙТИ ВНУТРЬ</value>
+      </value>
+      <value>
+        <value>НИЖЕ</value>
+        <value>ВПАСТЬ (СТАТЬ ВПАЛЫМ)</value>
+      </value>
+      <value>
+        <value>НИЖЕ</value>
+        <value>ВКЛИНИТЬСЯ (ВОЙТИ, ВДАТЬСЯ КЛИНОМ)</value>
+      </value>
+    </rels>
+    <name>ВДАВАТЬСЯ ВНУТРЬ</name>
+    <words>
+      <value>ВДАВАТЬСЯ</value>
+      <value>ВДАВАТЬСЯ ВНУТРЬ</value>
+      <value>ВДАТЬСЯ</value>
+    </words>
+  </item>
+  <item>
+    <rels>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>ПРОДОЛЖАТЬ</value>
+      </value>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>СОХРАНИТЬ СОСТОЯНИЕ</value>
+      </value>
+      <value>
+        <value>НИЖЕ</value>
+        <value>СОБЛЮДАТЬ (СОХРАНЯТЬ, ПОДДЕРЖИВАТЬ)</value>
+      </value>
+      <value>
+        <value>НИЖЕ</value>
+        <value>СОДЕРЖАТЬ (ПОДДЕРЖИВАТЬ В КАКОМ-ЛИБО ВИДЕ)</value>
+      </value>
+      <value>
+        <value>ЧАСТЬ</value>
+        <value>ПИЩА (ИСТОЧНИК ДЛЯ ПОДДЕРЖАНИЯ)</value>
+      </value>
+    </rels>
+    <name>ПОДДЕРЖИВАТЬ В СОХРАННОСТИ</name>
+    <words>
+      <value>ПОДДЕРЖАНИЕ</value>
+      <value>ПОДДЕРЖАНИЕ В СОХРАННОСТИ</value>
+      <value>ПОДДЕРЖАТЬ</value>
+      <value>ПОДДЕРЖИВАНИЕ</value>
+      <value>ПОДДЕРЖИВАТЬ</value>
+      <value>ПОДДЕРЖИВАТЬ В СОХРАННОСТИ</value>
+    </words>
+  </item>
+  <item>
+    <rels>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>ОДИНАКОВЫЙ</value>
+      </value>
+      <value>
+        <value>НИЖЕ</value>
+        <value>БЕЗОСТАНОВОЧНЫЙ, БЕЗ ОСТАНОВОК</value>
+      </value>
+      <value>
+        <value>НИЖЕ</value>
+        <value>БЕССРОЧНЫЙ, ВЕЧНЫЙ</value>
+      </value>
+      <value>
+        <value>НИЖЕ</value>
+        <value>ДОЛГОВРЕМЕННЫЙ (ПРОЧНЫЙ, ПОСТОЯННЫЙ О СООРУЖЕН.)</value>
+      </value>
+      <value>
+        <value>НИЖЕ</value>
+        <value>НЕТРОНУТЫЙ</value>
+      </value>
+      <value>
+        <value>НИЖЕ</value>
+        <value>ОБЯЗАТЕЛЬНЫЙ (ПОСТОЯННЫЙ, НЕИЗМЕННЫЙ)</value>
+      </value>
+      <value>
+        <value>НИЖЕ</value>
+        <value>ПОВСЕДНЕВНЫЙ, ИЗО ДНЯ В ДЕНЬ</value>
+      </value>
+      <value>
+        <value>НИЖЕ</value>
+        <value>ПРОЧНЫЙ (НЕ ПОДВЕРЖЕННЫЙ ПЕРЕМЕНАМ)</value>
+      </value>
+      <value>
+        <value>НИЖЕ</value>
+        <value>РАВНОМЕРНЫЙ</value>
+      </value>
+      <value>
+        <value>НИЖЕ</value>
+        <value>СИСТЕМАТИЧЕСКИЙ (ПОСТОЯННО ПОВТОРЯЮЩИЙСЯ)</value>
+      </value>
+      <value>
+        <value>НИЖЕ</value>
+        <value>СТАБИЛЬНОСТЬ</value>
+      </value>
+      <value>
+        <value>НИЖЕ</value>
+        <value>СТАЦИОНАРНЫЙ, НЕПЕРЕДВИЖНОЙ</value>
+      </value>
+      <value>
+        <value>НИЖЕ</value>
+        <value>СТОЙКОСТЬ К ВОЗДЕЙСТВИЮ</value>
+      </value>
+      <value>
+        <value>НИЖЕ</value>
+        <value>УПОРНЫЙ (ПОСТОЯННЫЙ, НЕИЗМЕННЫЙ)</value>
+      </value>
+      <value>
+        <value>НИЖЕ</value>
+        <value>УРАВНОВЕШЕННЫЙ ПО ХАРАКТЕРУ</value>
+      </value>
+      <value>
+        <value>НИЖЕ</value>
+        <value>НЕПРЕРЫВНЫЙ</value>
+      </value>
+      <value>
+        <value>НИЖЕ</value>
+        <value>ОБЫЧНЫЙ</value>
+      </value>
+      <value>
+        <value>АССОЦ</value>
+        <value>БЕЗОТЛУЧНОЕ ПРЕБЫВАНИЕ</value>
+      </value>
+      <value>
+        <value>АССОЦ</value>
+        <value>СОХРАНИТЬСЯ БЕЗ ИЗМЕНЕНИЙ</value>
+      </value>
+    </rels>
+    <name>ПОСТОЯННЫЙ, НЕИЗМЕННЫЙ</name>
+    <words>
+      <value>КОНСТАНТНЫЙ</value>
+      <value>НЕИЗМЕННОСТЬ</value>
+      <value>НЕИЗМЕННЫЙ</value>
+      <value>ПОСТОЯННОСТЬ</value>
+      <value>ПОСТОЯННЫЙ</value>
+      <value>ПОСТОЯННЫЙ В ТЕЧЕНИЕ ВРЕМЕНИ</value>
+      <value>ПОСТОЯНСТВО</value>
+    </words>
+  </item>
+  <item>
+    <rels>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>ИЗВЕСТНЫЙ, ЗНАКОМЫЙ</value>
+      </value>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>ОЧЕВИДНЫЙ, БЕССПОРНЫЙ</value>
+      </value>
+    </rels>
+    <name>ЗАВЕДОМЫЙ (ИЗВЕСТНЫЙ)</name>
+    <words>
+      <value>ЗАВЕДОМО ИЗВЕСТНЫЙ</value>
+      <value>ЗАВЕДОМЫЙ</value>
+    </words>
+  </item>
+  <item>
+    <rels>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>ПОВЕДЕНИЕ</value>
+      </value>
+      <value>
+        <value>НИЖЕ</value>
+        <value>ОБЫЧАЙ</value>
+      </value>
+      <value>
+        <value>АССОЦ</value>
+        <value>ПОВЕСТИСЬ, ВОЙТИ В ОБЫКНОВЕНИЕ</value>
+      </value>
+      <value>
+        <value>АССОЦ</value>
+        <value>ПРИВЫКНУТЬ, ПРИОБРЕСТИ ПРИВЫЧКУ</value>
+      </value>
+      <value>
+        <value>АССОЦ</value>
+        <value>ПРИВЫЧНЫЙ (ОБЫЧНЫЙ)</value>
+      </value>
+    </rels>
+    <name>ПРИВЫЧКА, ПРИВЫЧНОЕ ПОВЕДЕНИЕ</name>
+    <words>
+      <value>ОБЫКНОВЕНИЕ</value>
+      <value>ПРАВИЛО</value>
+      <value>ПРИВЫЧКА</value>
+      <value>ПРИВЫЧНОЕ ПОВЕДЕНИЕ</value>
+      <value>СИСТЕМА</value>
+    </words>
+  </item>
+  <item>
+    <rels>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>КРИТИКОВАТЬ (ОБСУЖДАТЬ, РАЗБИРАТЬ С ЦЕЛЬЮ ОЦЕНИТЬ)</value>
+      </value>
+      <value>
+        <value>ЦЕЛОЕ</value>
+        <value>ЗАЩИТА ДИССЕРТАЦИИ</value>
+      </value>
+      <value>
+        <value>ЧАСТЬ</value>
+        <value>ОППОНЕНТ ДИССЕРТАЦИИ</value>
+      </value>
+    </rels>
+    <name>ОППОНИРОВАНИЕ ДИССЕРТАЦИИ</name>
+    <words>
+      <value>ОППОНИРОВАНИЕ</value>
+      <value>ОППОНИРОВАНИЕ ДИССЕРТАЦИИ</value>
+      <value>ОППОНИРОВАТЬ</value>
+      <value>ОППОНИРОВАТЬ ДИССЕРТАЦИЮ</value>
+    </words>
+  </item>
+  <item>
+    <rels>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>ЗАСЕДАНИЕ</value>
+      </value>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>ОБСУЖДЕНИЕ</value>
+      </value>
+      <value>
+        <value>НИЖЕ</value>
+        <value>СУДЕБНОЕ РАЗБИРАТЕЛЬСТВО</value>
+      </value>
+    </rels>
+    <name>СЛУШАНИЕ (ОБСУЖДЕНИЕ)</name>
+    <words>
+      <value>СЛУШАНИЕ</value>
+      <value>СЛУШАНЬЕ</value>
+    </words>
+  </item>
+  <item>
+    <rels>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>РАССКАЗ (СЛОВЕСНОЕ ИЗЛОЖЕНИЕ)</value>
+      </value>
+      <value>
+        <value>АССОЦ</value>
+        <value>ПОМНИТЬ</value>
+      </value>
+    </rels>
+    <name>ВОСПОМИНАНИЯ (ЗАПИСКИ ИЛИ РАССКАЗЫ О ПРОШЛОМ)</name>
+    <words>
+      <value>ВОСПОМИНАНИЕ</value>
+    </words>
+  </item>
+  <item>
+    <rels>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>МУЗЕЙ</value>
+      </value>
+      <value>
+        <value>ЦЕЛОЕ</value>
+        <value>ИЗОБРАЗИТЕЛЬНОЕ ИСКУССТВО</value>
+      </value>
+      <value>
+        <value>НИЖЕ</value>
+        <value>КАРТИННАЯ ГАЛЕРЕЯ</value>
+      </value>
+    </rels>
+    <name>ХУДОЖЕСТВЕННЫЙ МУЗЕЙ</name>
+    <words>
+      <value>МУЗЕЙ ИЗОБРАЗИТЕЛЬНЫХ ИСКУССТВ</value>
+      <value>ХУДОЖЕСТВЕННЫЙ МУЗЕЙ</value>
+    </words>
+  </item>
+  <item>
+    <rels>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>КОСТЮМ (ВЕРХНЯЯ ОДЕЖДА)</value>
+      </value>
+    </rels>
+    <name>КОСТЮМ-ТРОЙКА</name>
+    <words>
+      <value>БРЮЧНАЯ ТРОЙКА</value>
+      <value>КОСТЮМ-ТРОЙКА</value>
+      <value>ТРОЙКА</value>
+    </words>
+  </item>
+  <item>
+    <rels>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>ЛАКОНИЧНЫЙ</value>
+      </value>
+    </rels>
+    <name>СУХОЙ (СКУПОЙ, ЛАКОНИЧНЫЙ)</name>
+    <words>
+      <value>ОДНОСЛОЖНОСТЬ</value>
+      <value>ОДНОСЛОЖНЫЙ</value>
+      <value>СКУПОЙ НА СЛОВА</value>
+      <value>СУХОВАТОСТЬ</value>
+      <value>СУХОВАТЫЙ</value>
+      <value>СУХОЙ</value>
+      <value>СУХОСТЬ</value>
+    </words>
+  </item>
+  <item>
+    <rels>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>ПРИКРЕПИТЬ, ПРИДЕЛАТЬ</value>
+      </value>
+    </rels>
+    <name>НАДЕТЬ (УКРЕПИТЬ, ПРИКРЕПИТЬ ЧТО-Н НА ЧТО-Н.)</name>
+    <words>
+      <value>НАДЕВАНИЕ</value>
+      <value>НАДЕВАТЬ</value>
+      <value>НАДЕВАТЬСЯ</value>
+      <value>НАДЕТЬ</value>
+    </words>
+  </item>
+  <item>
+    <rels>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>ЖЕЛЕЗНОДОРОЖНЫЕ СРЕДСТВА ТРАНСПОРТА</value>
+      </value>
+      <value>
+        <value>НИЖЕ</value>
+        <value>ГРУЗОВАЯ ПЛАТФОРМА</value>
+      </value>
+      <value>
+        <value>НИЖЕ</value>
+        <value>ЖЕЛЕЗНОДОРОЖНЫЙ ВАГОН</value>
+      </value>
+      <value>
+        <value>НИЖЕ</value>
+        <value>ЛОКОМОТИВ</value>
+      </value>
+      <value>
+        <value>НИЖЕ</value>
+        <value>ПОЕЗД</value>
+      </value>
+    </rels>
+    <name>ПОДВИЖНОЙ СОСТАВ ЖЕЛЕЗНОДОРОЖНОГО ТРАНСПОРТА</name>
+    <words>
+      <value>ЖЕЛЕЗНОДОРОЖНЫЙ ПОДВИЖНОЙ СОСТАВ</value>
+      <value>ПОДВИЖНОЙ ЖЕЛЕЗНОДОРОЖНЫЙ СОСТАВ</value>
+      <value>ПОДВИЖНОЙ СОСТАВ</value>
+      <value>ПОДВИЖНОЙ СОСТАВ ЖЕЛЕЗНОДОРОЖНОГО ТРАНСПОРТА</value>
+    </words>
+  </item>
+  <item>
+    <rels>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>ТРУБА (ПРЕДМЕТ)</value>
+      </value>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>УСИЛИТЕЛЬ, УСИЛИТЕЛЬНОЕ УСТРОЙСТВО</value>
+      </value>
+      <value>
+        <value>ЦЕЛОЕ</value>
+        <value>ГРОМКОГОВОРИТЕЛЬ</value>
+      </value>
+      <value>
+        <value>АССОЦ</value>
+        <value>МЕГАФОН</value>
+      </value>
+    </rels>
+    <name>РУПОР (ТРУБА)</name>
+    <words>
+      <value>РУПОР</value>
+      <value>РУПОРНЫЙ</value>
+    </words>
+  </item>
+  <item>
+    <rels>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>ЗАКРЫТЬ ОТВЕРСТИЕ, ПРОХОД</value>
+      </value>
+      <value>
+        <value>АССОЦ</value>
+        <value>ТРУБА, ТРУБОПРОВОД</value>
+      </value>
+    </rels>
+    <name>ПЕРЕКРЫТЬ ГАЗ, ВОДУ</name>
+    <words>
+      <value>ПЕРЕКРЫВАНИЕ</value>
+      <value>ПЕРЕКРЫВАТЬ</value>
+      <value>ПЕРЕКРЫВАТЬ ТРУБУ</value>
+      <value>ПЕРЕКРЫТИЕ</value>
+      <value>ПЕРЕКРЫТЬ</value>
+      <value>ПЕРЕКРЫТЬ ТРУБУ</value>
+    </words>
+  </item>
+  <item>
+    <rels>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>ПРОМЫШЛЕННОЕ ПРОИЗВОДСТВО</value>
+      </value>
+      <value>
+        <value>АССОЦ</value>
+        <value>ЛЕСОПРОДУКЦИЯ</value>
+      </value>
+    </rels>
+    <name>ПРОИЗВОДСТВО ЛЕСОМАТЕРИАЛОВ</name>
+    <words>
+      <value>ПРОИЗВОДИТЬ ЛЕСОМАТЕРИАЛЫ</value>
+      <value>ПРОИЗВОДИТЬ ЛЕСОПРОДУКЦИЮ</value>
+      <value>ПРОИЗВОДСТВО ЛЕСОМАТЕРИАЛОВ</value>
+      <value>ПРОИЗВОДСТВО ЛЕСОПРОДУКЦИИ</value>
+    </words>
+  </item>
+  <item>
+    <rels>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>СОСТАВНОЙ, ИЗ НЕСКОЛЬКИХ ЧАСТЕЙ</value>
+      </value>
+    </rels>
+    <name>СЛОЖНЫЙ ПО СОСТАВУ, СТРУКТУРЕ</name>
+    <words>
+      <value>МНОГОСОСТАВНОЙ</value>
+      <value>СЛОЖНОСТЬ</value>
+      <value>СЛОЖНЫЙ</value>
+      <value>СЛОЖНЫЙ ПО СОСТАВУ</value>
+      <value>СЛОЖНЫЙ ПО СТРУКТУРЕ</value>
+    </words>
+  </item>
+  <item>
+    <rels>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>СОСТАВНОЙ, ИЗ НЕСКОЛЬКИХ ЧАСТЕЙ</value>
+      </value>
+    </rels>
+    <name>ДВОЙНОЙ, ИЗ ДВУХ ЧАСТЕЙ</name>
+    <words>
+      <value>ДВОЙНОЙ</value>
+      <value>ИЗ ДВУХ ЧАСТЕЙ</value>
+    </words>
+  </item>
+  <item>
+    <rels>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>СПЛАВЫ ЖЕЛЕЗА</value>
+      </value>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>ЧЕРНЫЕ МЕТАЛЛЫ</value>
+      </value>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>ПРОДУКЦИЯ ЧЕРНОЙ МЕТАЛЛУРГИИ</value>
+      </value>
+      <value>
+        <value>АССОЦ</value>
+        <value>СТАЛЬНОЙ ПРОКАТ</value>
+      </value>
+    </rels>
+    <name>СТАЛЬ</name>
+    <words>
+      <value>СТАЛЬ</value>
+      <value>СТАЛЬНАЯ ПРОДУКЦИЯ</value>
+      <value>СТАЛЬНОЙ</value>
+    </words>
+  </item>
+  <item>
+    <rels>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>ЧАСТЬ ТЕЛА</value>
+      </value>
+      <value>
+        <value>ЧАСТЬ</value>
+        <value>БОК ТУЛОВИЩА</value>
+      </value>
+      <value>
+        <value>ЧАСТЬ</value>
+        <value>ГРУДЬ (ТУЛОВИЩЕ)</value>
+      </value>
+      <value>
+        <value>ЧАСТЬ</value>
+        <value>ЖИВОТ (ЧАСТЬ ТЕЛА)</value>
+      </value>
+      <value>
+        <value>ЧАСТЬ</value>
+        <value>ПЛЕЧО (ЧАСТЬ ТУЛОВИЩА)</value>
+      </value>
+      <value>
+        <value>ЧАСТЬ</value>
+        <value>СПИНА (ЧАСТЬ ТУЛОВИЩА)</value>
+      </value>
+      <value>
+        <value>ЧАСТЬ</value>
+        <value>ТАЛИЯ</value>
+      </value>
+    </rels>
+    <name>ТУЛОВИЩЕ</name>
+    <words>
+      <value>КОРПУС</value>
+      <value>СТАН</value>
+      <value>ТЕЛО</value>
+      <value>ТОРС</value>
+      <value>ТУЛОВИЩЕ</value>
+    </words>
+  </item>
+  <item>
+    <rels>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>ОРГАН ЖИВОГО ОРГАНИЗМА</value>
+      </value>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>ПОЛОСТЬ, ПОЛОЕ ПРОСТРАНСТВО</value>
+      </value>
+      <value>
+        <value>ЦЕЛОЕ</value>
+        <value>ТЕЛО ЧЕЛОВЕКА, ЖИВОТНОГО</value>
+      </value>
+      <value>
+        <value>НИЖЕ</value>
+        <value>БРЮШНАЯ ПОЛОСТЬ</value>
+      </value>
+      <value>
+        <value>НИЖЕ</value>
+        <value>КАНАЛ В ОРГАНИЗМЕ</value>
+      </value>
+      <value>
+        <value>НИЖЕ</value>
+        <value>РОТОВАЯ ПОЛОСТЬ</value>
+      </value>
+      <value>
+        <value>ЧАСТЬ</value>
+        <value>СТЕНКА ПОЛОГО ОРГАНА</value>
+      </value>
+    </rels>
+    <name>ПОЛОСТЬ ОРГАНИЗМА</name>
+    <words>
+      <value>ПОЛОСТНОЙ</value>
+      <value>ПОЛОСТЬ</value>
+      <value>ПОЛОСТЬ ОРГАНИЗМА</value>
+      <value>ПОЛОСТЬ ТЕЛА</value>
+    </words>
+  </item>
+  <item>
+    <rels>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>ИСЛАМ</value>
+      </value>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>РЕЛИГИОЗНАЯ КОНФЕССИЯ</value>
+      </value>
+      <value>
+        <value>ЧАСТЬ</value>
+        <value>ШИИТ</value>
+      </value>
+    </rels>
+    <name>ШИИЗМ</name>
+    <words>
+      <value>ШИИЗМ</value>
+    </words>
+  </item>
+  <item>
+    <rels>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>ЕДИНИЦА МОЩНОСТИ</value>
+      </value>
+    </rels>
+    <name>ЛОШАДИНАЯ СИЛА (ЕДИНИЦА МОЩНОСТИ)</name>
+    <words>
+      <value>ЛОШАДИНАЯ СИЛА</value>
+    </words>
+  </item>
+  <item>
+    <rels>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>ПОСТОЯННЫЙ, НЕИЗМЕННЫЙ</value>
+      </value>
+    </rels>
+    <name>ОБЯЗАТЕЛЬНЫЙ (ПОСТОЯННЫЙ, НЕИЗМЕННЫЙ)</name>
+    <words>
+      <value>ОБЯЗАТЕЛЬНЫЙ</value>
+    </words>
+  </item>
+  <item>
+    <rels>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>ХРИСТИАНСКАЯ ЦЕРКОВЬ</value>
+      </value>
+      <value>
+        <value>ЦЕЛОЕ</value>
+        <value>КАТОЛИЦИЗМ</value>
+      </value>
+      <value>
+        <value>ЧАСТЬ</value>
+        <value>ПАПА РИМСКИЙ</value>
+      </value>
+    </rels>
+    <name>КАТОЛИЧЕСКАЯ ЦЕРКОВЬ</name>
+    <words>
+      <value>КАТОЛИЧЕСКАЯ ЦЕРКОВЬ</value>
+      <value>РИМСКО-КАТОЛИЧЕСКАЯ ЦЕРКОВЬ</value>
+      <value>РИМСКО-КАТОЛИЧЕСКИЙ</value>
+    </words>
+  </item>
+  <item>
+    <rels>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>ПРИГОВОР СУДА</value>
+      </value>
+      <value>
+        <value>ЦЕЛОЕ</value>
+        <value>СУД ПРИСЯЖНЫХ</value>
+      </value>
+    </rels>
+    <name>ВЕРДИКТ ПРИСЯЖНЫХ</name>
+    <words>
+      <value>ВЕРДИКТ</value>
+      <value>ВЕРДИКТ ПО ДЕЛУ</value>
+      <value>ВЕРДИКТ ПРИСЯЖНЫХ</value>
+      <value>ПРИГОВОР ПРИСЯЖНЫХ</value>
+      <value>ПРИГОВОР СУДА ПРИСЯЖНЫХ</value>
+      <value>ПРИСЯЖНОЕ ПОСТАНОВЛЕНИЕ</value>
+      <value>ПРИСЯЖНЫЙ ПРИГОВОР</value>
+      <value>РЕШЕНИЕ ПРИСЯЖНЫХ</value>
+    </words>
+  </item>
+  <item>
+    <rels>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>РЫБОЛОВНАЯ СНАСТЬ</value>
+      </value>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>СЕТЬ ИЗ НИТЕЙ, ПРОВОЛОКИ</value>
+      </value>
+    </rels>
+    <name>РЫБОЛОВНАЯ СЕТЬ</name>
+    <words>
+      <value>РЫБОЛОВНАЯ СЕТЬ</value>
+      <value>СЕТЬ</value>
+    </words>
+  </item>
+  <item>
+    <rels>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>СОВОКУПНОСТЬ ОСОБЕЙ</value>
+      </value>
+      <value>
+        <value>АССОЦ</value>
+        <value>ЭКОЛОГИЧЕСКАЯ СИСТЕМА</value>
+      </value>
+    </rels>
+    <name>СООБЩЕСТВО ОРГАНИЗМОВ</name>
+    <words>
+      <value>БИОЦЕНОЗ</value>
+      <value>СООБЩЕСТВО</value>
+      <value>СООБЩЕСТВО ОРГАНИЗМОВ</value>
+      <value>СООБЩЕСТВО ОСОБЕЙ</value>
+    </words>
+  </item>
+  <item>
+    <rels>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>ПОСТОЯННЫЙ, НЕИЗМЕННЫЙ</value>
+      </value>
+    </rels>
+    <name>УПОРНЫЙ (ПОСТОЯННЫЙ, НЕИЗМЕННЫЙ)</name>
+    <words>
+      <value>УПОРНОСТЬ</value>
+      <value>УПОРНЫЙ</value>
+    </words>
+  </item>
+  <item>
+    <rels>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>ПОДДЕРЖИВАТЬ В СОХРАННОСТИ</value>
+      </value>
+    </rels>
+    <name>СОДЕРЖАТЬ (ПОДДЕРЖИВАТЬ В КАКОМ-ЛИБО ВИДЕ)</name>
+    <words>
+      <value>СОДЕРЖАТЬ</value>
+    </words>
+  </item>
+  <item>
+    <rels>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>БИОЛОГИЯ</value>
+      </value>
+      <value>
+        <value>АССОЦ</value>
+        <value>ГЕН</value>
+      </value>
+      <value>
+        <value>АССОЦ</value>
+        <value>ГЕНЕТИЧЕСКИЙ ФОНД</value>
+      </value>
+      <value>
+        <value>АССОЦ</value>
+        <value>НАСЛЕДСТВЕННОСТЬ</value>
+      </value>
+    </rels>
+    <name>ГЕНЕТИКА</name>
+    <words>
+      <value>ГЕНЕТИКА</value>
+      <value>ГЕНЕТИЧЕСКИЙ</value>
+    </words>
+  </item>
+  <item>
+    <rels>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>СЛОЙ (ПЛОСКАЯ ЧАСТЬ)</value>
+      </value>
+      <value>
+        <value>ЦЕЛОЕ</value>
+        <value>КНИЖНАЯ ПРОДУКЦИЯ</value>
+      </value>
+    </rels>
+    <name>ОБЛОЖКА КНИГИ, ТЕТРАДИ</name>
+    <words>
+      <value>КНИЖНАЯ ОБЛОЖКА</value>
+      <value>ОБЛОЖЕЧНЫЙ</value>
+      <value>ОБЛОЖКА</value>
+      <value>ОБЛОЖКА КНИГИ</value>
+    </words>
+  </item>
+  <item>
+    <rels>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>НАУКИ О ЗЕМЛЕ</value>
+      </value>
+      <value>
+        <value>ЦЕЛОЕ</value>
+        <value>ГЕОГРАФИЧЕСКИЕ НАУКИ</value>
+      </value>
+      <value>
+        <value>ЧАСТЬ</value>
+        <value>КАРТОГРАФИРОВАНИЕ</value>
+      </value>
+      <value>
+        <value>ЧАСТЬ</value>
+        <value>КАРТОГРАФИЧЕСКАЯ ПРОДУКЦИЯ</value>
+      </value>
+    </rels>
+    <name>КАРТОГРАФИЯ</name>
+    <words>
+      <value>КАРТОГРАФИЧЕСКИЙ</value>
+      <value>КАРТОГРАФИЧЕСКОЕ ОБЕСПЕЧЕНИЕ</value>
+      <value>КАРТОГРАФИЯ</value>
+    </words>
+  </item>
+  <item>
+    <rels>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>ВООРУЖЕННОЕ ФОРМИРОВАНИЕ</value>
+      </value>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>ПРЕСТУПНОЕ ФОРМИРОВАНИЕ</value>
+      </value>
+      <value>
+        <value>ЦЕЛОЕ</value>
+        <value>ВООРУЖЕННЫЙ КОНФЛИКТ</value>
+      </value>
+      <value>
+        <value>ЦЕЛОЕ</value>
+        <value>ПРЕСТУПЛЕНИЕ ПРОТИВ ОБЩЕСТВЕННОЙ БЕЗОПАСНОСТИ</value>
+      </value>
+      <value>
+        <value>НИЖЕ</value>
+        <value>ВООРУЖЕННАЯ БАНДА</value>
+      </value>
+      <value>
+        <value>ЧАСТЬ</value>
+        <value>УЧАСТНИК ВООРУЖЕННОГО ФОРМИРОВАНИЯ</value>
+      </value>
+    </rels>
+    <name>НЕЗАКОННОЕ ВООРУЖЕННОЕ ФОРМИРОВАНИЕ</name>
+    <words>
+      <value>БАНДА БОЕВИКОВ</value>
+      <value>БАНДИТСКОЕ ПОДПОЛЬЕ</value>
+      <value>БАНДИТСКОЕ ФОРМИРОВАНИЕ</value>
+      <value>БАНДПОДПОЛЬЕ</value>
+      <value>БАНДФОРМИРОВАНИЕ</value>
+      <value>ВОЕНИЗИРОВАННАЯ ГРУППИРОВКА</value>
+      <value>ВООРУЖЕННАЯ ГРУППИРОВКА</value>
+      <value>ВООРУЖЕННОЕ ПОДПОЛЬЕ</value>
+      <value>ГРУППИРОВКА БОЕВИКОВ</value>
+      <value>НЕЗАКОННАЯ ВООРУЖЕННАЯ ГРУППИРОВКА</value>
+      <value>НЕЗАКОННОЕ ВООРУЖЕННОЕ ФОРМИРОВАНИЕ</value>
+      <value>НЕЗАКОННОЕ ФОРМИРОВАНИЕ</value>
+    </words>
+  </item>
+  <item>
+    <rels>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>ЗАЩИТНОЕ СНАРЯЖЕНИЕ</value>
+      </value>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>ОДЕЖДА</value>
+      </value>
+      <value>
+        <value>НИЖЕ</value>
+        <value>ЗАЩИТНЫЙ ГОЛОВНОЙ УБОР</value>
+      </value>
+    </rels>
+    <name>ЗАЩИТНАЯ ОДЕЖДА</name>
+    <words>
+      <value>ЗАЩИТНАЯ ОДЕЖДА</value>
+    </words>
+  </item>
+  <item>
+    <rels>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>УБИТЬ, ЛИШИТЬ ЖИЗНИ</value>
+      </value>
+      <value>
+        <value>АССОЦ</value>
+        <value>ПОБОИ</value>
+      </value>
+    </rels>
+    <name>ЗАБИТЬ ДО СМЕРТИ</name>
+    <words>
+      <value>ЗАБИВАТЬ</value>
+      <value>ЗАБИВАТЬ ДО СМЕРТИ</value>
+      <value>ЗАБИВАТЬ НАСМЕРТЬ</value>
+      <value>ЗАБИТЬ</value>
+      <value>ЗАБИТЬ ДО СМЕРТИ</value>
+      <value>ЗАБИТЬ НАСМЕРТЬ</value>
+    </words>
+  </item>
+  <item>
+    <rels>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>ПЛОХОЙ ПОСТУПОК</value>
+      </value>
+      <value>
+        <value>НИЖЕ</value>
+        <value>ЗЛОДЕЙСТВО</value>
+      </value>
+      <value>
+        <value>НИЖЕ</value>
+        <value>НАСИЛИЕ НАД ЛИЧНОСТЬЮ</value>
+      </value>
+      <value>
+        <value>АССОЦ</value>
+        <value>БЕЗЖАЛОСТНЫЙ, ЖЕСТОКИЙ</value>
+      </value>
+      <value>
+        <value>АССОЦ</value>
+        <value>ЖЕСТОКИЙ ЧЕЛОВЕК</value>
+      </value>
+    </rels>
+    <name>ЖЕСТОКИЙ ПОСТУПОК</name>
+    <words>
+      <value>ЖЕСТОКИЙ ПОСТУПОК</value>
+      <value>ЖЕСТОКОЕ ОБРАЩЕНИЕ</value>
+      <value>ЖЕСТОКОСТЬ</value>
+    </words>
+  </item>
+  <item>
+    <rels>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>СТАТУС</value>
+      </value>
+      <value>
+        <value>АССОЦ</value>
+        <value>ВЫСОКОПОСТАВЛЕННЫЙ</value>
+      </value>
+    </rels>
+    <name>ВЫСОКИЙ ПО СТАТУСУ</name>
+    <words>
+      <value>ВЫСОКИЙ</value>
+      <value>ВЫСОКИЙ ПО ПОЛОЖЕНИЮ</value>
+      <value>ВЫСОКИЙ ПО СТАТУСУ</value>
+      <value>ВЫСОКИЙ СТАТУС</value>
+      <value>ВЫСШИЙ</value>
+    </words>
+  </item>
+  <item>
+    <rels>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>ДОЛЖНОСТЬ</value>
+      </value>
+      <value>
+        <value>ЦЕЛОЕ</value>
+        <value>ЕПАРХИЯ</value>
+      </value>
+      <value>
+        <value>АССОЦ</value>
+        <value>ЕПИСКОП</value>
+      </value>
+    </rels>
+    <name>ЕПИСКОПСКАЯ КАФЕДРА</name>
+    <words>
+      <value>ЕПИСКОПСКАЯ КАФЕДРА</value>
+      <value>КАФЕДРА</value>
+      <value>КАФЕДРА ЕПАРХИИ</value>
+      <value>КАФЕДРА ЕПИСКОПА</value>
+      <value>КАФЕДРАЛЬНЫЙ</value>
+    </words>
+  </item>
+  <item>
+    <rels>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>НЕДОВОЛЬСТВО, НЕУДОВОЛЬСТВИЕ</value>
+      </value>
+      <value>
+        <value>АССОЦ</value>
+        <value>ДОСАДИТЬ</value>
+      </value>
+    </rels>
+    <name>ДОСАДА</name>
+    <words>
+      <value>ДОСАДА</value>
+    </words>
+  </item>
+  <item>
+    <rels>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>ОРГАН СЛУХА</value>
+      </value>
+      <value>
+        <value>ЦЕЛОЕ</value>
+        <value>ГОЛОВА (ЧАСТЬ ТЕЛА)</value>
+      </value>
+      <value>
+        <value>ЧАСТЬ</value>
+        <value>УШНАЯ РАКОВИНА</value>
+      </value>
+    </rels>
+    <name>УХО</name>
+    <words>
+      <value>УХО</value>
+      <value>УШКО</value>
+      <value>УШНОЙ</value>
+    </words>
+  </item>
+  <item>
+    <rels>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>ПОЛ (ПОКРЫТИЕ)</value>
+      </value>
+      <value>
+        <value>АССОЦ</value>
+        <value>ПАРКЕТ</value>
+      </value>
+    </rels>
+    <name>ПАРКЕТНЫЙ ПОЛ</name>
+    <words>
+      <value>ПАРКЕТ</value>
+      <value>ПАРКЕТНЫЙ ПОЛ</value>
+    </words>
+  </item>
+  <item>
+    <rels>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>ПОЛОСТЬ ОРГАНИЗМА</value>
+      </value>
+    </rels>
+    <name>КАНАЛ В ОРГАНИЗМЕ</name>
+    <words>
+      <value>КАНАЛ</value>
+      <value>КАНАЛ В ОРГАНИЗМЕ</value>
+      <value>ПРОТОК</value>
+      <value>ПРОХОД</value>
+      <value>ПРОХОД В ОРГАНИЗМЕ</value>
+    </words>
+  </item>
+  <item>
+    <rels>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>КУЛЬТУРНО-ПРОСВЕТИТЕЛЬНАЯ ОРГАНИЗАЦИЯ</value>
+      </value>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>РАЗВЛЕКАТЕЛЬНОЕ ЗАВЕДЕНИЕ</value>
+      </value>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>ЗДАНИЕ СОЦИАЛЬНО-КУЛЬТУРНОГО НАЗНАЧЕНИЯ</value>
+      </value>
+      <value>
+        <value>ЦЕЛОЕ</value>
+        <value>КУЛЬТУРНО-ЗРЕЛИЩНОЕ МЕРОПРИЯТИЕ</value>
+      </value>
+      <value>
+        <value>НИЖЕ</value>
+        <value>ЗООПАРК</value>
+      </value>
+      <value>
+        <value>НИЖЕ</value>
+        <value>КИНОТЕАТР</value>
+      </value>
+      <value>
+        <value>НИЖЕ</value>
+        <value>ТЕАТР</value>
+      </value>
+      <value>
+        <value>НИЖЕ</value>
+        <value>ЦИРКОВАЯ ОРГАНИЗАЦИЯ</value>
+      </value>
+      <value>
+        <value>ЧАСТЬ</value>
+        <value>ЗРИТЕЛЬНЫЙ ЗАЛ</value>
+      </value>
+    </rels>
+    <name>ЗРЕЛИЩНОЕ УЧРЕЖДЕНИЕ</name>
+    <words>
+      <value>ЗРЕЛИЩНОЕ ПРЕДПРИЯТИЕ</value>
+      <value>ЗРЕЛИЩНОЕ УЧРЕЖДЕНИЕ</value>
+      <value>ТЕАТРАЛЬНО-ЗРЕЛИЩНОЕ ПРЕДПРИЯТИЕ</value>
+      <value>ТЕАТРАЛЬНО-ЗРЕЛИЩНОЕ УЧРЕЖДЕНИЕ</value>
+    </words>
+  </item>
+  <item>
+    <rels>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>ПОЯВИТЬСЯ, ПОКАЗАТЬСЯ</value>
+      </value>
+    </rels>
+    <name>ОТКРЫТЬСЯ (ПОЯВИТЬСЯ)</name>
+    <words>
+      <value>ОТКРЫВАТЬСЯ</value>
+      <value>ОТКРЫТЬСЯ</value>
+    </words>
+  </item>
+  <item>
+    <rels>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>ПОЯВИТЬСЯ, ПОКАЗАТЬСЯ</value>
+      </value>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>ПРИБЛИЗИТЬСЯ НА РАССТОЯНИЕ</value>
+      </value>
+      <value>
+        <value>АССОЦ</value>
+        <value>ТЕЧЬ (ПЕРЕМЕЩАТЬСЯ)</value>
+      </value>
+    </rels>
+    <name>ПРИТЕЧЬ (О ТЕКУЩЕМ ПОЯВИТЬСЯ)</name>
+    <words>
+      <value>ПРИТЕКАТЬ</value>
+      <value>ПРИТЕЧЬ</value>
+      <value>ПРИТОК</value>
+      <value>ПРИТОЧНЫЙ</value>
+    </words>
+  </item>
+  <item>
+    <rels>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>НАПРАВЛЕНИЕ (ДОКУМЕНТ)</value>
+      </value>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>СЛУЖЕБНЫЙ ДОКУМЕНТ</value>
+      </value>
+      <value>
+        <value>ЦЕЛОЕ</value>
+        <value>КОМАНДИРОВКА</value>
+      </value>
+    </rels>
+    <name>КОМАНДИРОВОЧНЫЙ ДОКУМЕНТ</name>
+    <words>
+      <value>КОМАНДИРОВКА</value>
+      <value>КОМАНДИРОВОЧНОЕ ПРЕДПИСАНИЕ</value>
+      <value>КОМАНДИРОВОЧНОЕ УДОСТОВЕРЕНИЕ</value>
+      <value>КОМАНДИРОВОЧНЫЙ ДОКУМЕНТ</value>
+    </words>
+  </item>
+  <item>
+    <rels>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>ОКСИДЫ</value>
+      </value>
+      <value>
+        <value>НИЖЕ</value>
+        <value>КОРУНД</value>
+      </value>
+      <value>
+        <value>АССОЦ</value>
+        <value>АЛЮМИНИЙ</value>
+      </value>
+    </rels>
+    <name>ГЛИНОЗЕМ</name>
+    <words>
+      <value>ГЛИНОЗЕМ</value>
+      <value>ГЛИНОЗЕМИСТЫЙ</value>
+      <value>ГЛИНОЗЕМНЫЙ</value>
+      <value>ОКСИД АЛЮМИНИЯ</value>
+    </words>
+  </item>
+  <item>
+    <rels>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>ОБРАБАТЫВАТЬ, ПОДВЕРГАТЬ ОБРАБОТКЕ</value>
+      </value>
+      <value>
+        <value>НИЖЕ</value>
+        <value>ВАРКА ПИЩИ</value>
+      </value>
+      <value>
+        <value>НИЖЕ</value>
+        <value>ЗАПЕКАНИЕ БЛЮДА</value>
+      </value>
+      <value>
+        <value>НИЖЕ</value>
+        <value>КОНСЕРВИРОВАНИЕ ПИЩЕВЫХ ПРОДУКТОВ</value>
+      </value>
+      <value>
+        <value>НИЖЕ</value>
+        <value>НАСТОЯТЬ, ПРИГОТОВИТЬ НАСТОЙКУ</value>
+      </value>
+      <value>
+        <value>ЧАСТЬ</value>
+        <value>КУЛИНАРНОЕ ИСКУССТВО</value>
+      </value>
+      <value>
+        <value>ЧАСТЬ</value>
+        <value>КУЛИНАРНЫЙ РЕЦЕПТ</value>
+      </value>
+      <value>
+        <value>ЧАСТЬ</value>
+        <value>ПОВАР</value>
+      </value>
+      <value>
+        <value>ЧАСТЬ</value>
+        <value>СОЛИТЬ ПИЩУ</value>
+      </value>
+      <value>
+        <value>ЧАСТЬ</value>
+        <value>КУХНЯ (ПОМЕЩЕНИЕ)</value>
+      </value>
+      <value>
+        <value>ЧАСТЬ</value>
+        <value>КУХОННАЯ ПЛИТА</value>
+      </value>
+      <value>
+        <value>ЧАСТЬ</value>
+        <value>ЗАПРАВИТЬ ПИЩУ</value>
+      </value>
+      <value>
+        <value>ЧАСТЬ</value>
+        <value>КУХОННАЯ УТВАРЬ</value>
+      </value>
+      <value>
+        <value>ЧАСТЬ</value>
+        <value>СЛАСТИТЬ</value>
+      </value>
+      <value>
+        <value>АССОЦ</value>
+        <value>ЕДА, ПИЩА</value>
+      </value>
+      <value>
+        <value>АССОЦ</value>
+        <value>КУШАНЬЕ</value>
+      </value>
+    </rels>
+    <name>ПРИГОТОВЛЕНИЕ ПИЩИ</name>
+    <words>
+      <value>ГОТОВИТЬ</value>
+      <value>ГОТОВИТЬ ЕДУ</value>
+      <value>ГОТОВИТЬ ПИЩУ</value>
+      <value>ГОТОВИТЬСЯ</value>
+      <value>ГОТОВКА</value>
+      <value>ИЗГОТОВИТЬ ЕДУ</value>
+      <value>ИЗГОТОВИТЬ ПИЩУ</value>
+      <value>ИЗГОТОВЛЕНИЕ ЕДЫ</value>
+      <value>ИЗГОТОВЛЕНИЕ ПИЩИ</value>
+      <value>КУЛИНАРНАЯ ОБРАБОТКА</value>
+      <value>КУХНЯ</value>
+      <value>НАГОТАВЛИВАТЬ</value>
+      <value>НАГОТОВИТЬ</value>
+      <value>ПОВАРЕННЫЙ</value>
+      <value>ПРИГОТАВЛИВАТЬ</value>
+      <value>ПРИГОТОВИТЬ</value>
+      <value>ПРИГОТОВИТЬ БЛЮДО</value>
+      <value>ПРИГОТОВИТЬ ЕДУ</value>
+      <value>ПРИГОТОВИТЬ ПИЩУ</value>
+      <value>ПРИГОТОВЛЕНИЕ</value>
+      <value>ПРИГОТОВЛЕНИЕ БЛЮД</value>
+      <value>ПРИГОТОВЛЕНИЕ ПИЩИ</value>
+      <value>ПРИГОТОВЛЯТЬ</value>
+      <value>СГОТОВИТЬ</value>
+      <value>СОСТРЯПАТЬ</value>
+      <value>СТРЯПАТЬ</value>
+      <value>СТРЯПНЯ</value>
+    </words>
+  </item>
+  <item>
+    <rels>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>ОБРАЩЕНИЕ С ОТХОДАМИ</value>
+      </value>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>РАСПОЛОЖИТЬ, РАЗМЕСТИТЬ</value>
+      </value>
+      <value>
+        <value>ЧАСТЬ</value>
+        <value>МЕСТО РАЗМЕЩЕНИЯ ОТХОДОВ</value>
+      </value>
+    </rels>
+    <name>РАЗМЕЩЕНИЕ ОТХОДОВ</name>
+    <words>
+      <value>РАЗМЕЩЕНИЕ ОТХОДОВ</value>
+      <value>СКЛАДИРОВАНИЕ ОТХОДОВ</value>
+      <value>СКЛАДИРОВАТЬ ОТХОДЫ</value>
+    </words>
+  </item>
+  <item>
+    <rels>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>ОХРАНЯТЬ</value>
+      </value>
+      <value>
+        <value>НИЖЕ</value>
+        <value>ВООРУЖЕННОЕ ПРИКРЫТИЕ</value>
+      </value>
+      <value>
+        <value>НИЖЕ</value>
+        <value>ГАРАНТИРОВАТЬ (ЗАЩИЩАТЬ)</value>
+      </value>
+      <value>
+        <value>НИЖЕ</value>
+        <value>ЗАБОТИТЬСЯ, ОКРУЖИТЬ ЗАБОТОЙ</value>
+      </value>
+      <value>
+        <value>НИЖЕ</value>
+        <value>ЗАСТУПИТЬСЯ</value>
+      </value>
+      <value>
+        <value>НИЖЕ</value>
+        <value>ЗАЩИТА ГРАЖДАН</value>
+      </value>
+      <value>
+        <value>НИЖЕ</value>
+        <value>ЗАЩИТА ИНФОРМАЦИИ</value>
+      </value>
+      <value>
+        <value>НИЖЕ</value>
+        <value>ЗДРАВООХРАНЕНИЕ</value>
+      </value>
+      <value>
+        <value>НИЖЕ</value>
+        <value>ИЗОЛИРОВАТЬ, ПОКРЫТЬ ИЗОЛЯЦИЕЙ</value>
+      </value>
+      <value>
+        <value>НИЖЕ</value>
+        <value>ОБОРОНЯТЬ ОТ НАПАДЕНИЯ</value>
+      </value>
+      <value>
+        <value>НИЖЕ</value>
+        <value>ОТСТОЯТЬ ОТ ПОСЯГАТЕЛЬСТВ</value>
+      </value>
+      <value>
+        <value>НИЖЕ</value>
+        <value>ОХРАНА ОКРУЖАЮЩЕЙ СРЕДЫ</value>
+      </value>
+      <value>
+        <value>НИЖЕ</value>
+        <value>ПОКРОВИТЕЛЬСТВО (ЗАЩИТА, ЗАСТУПНИЧЕСТВО)</value>
+      </value>
+      <value>
+        <value>НИЖЕ</value>
+        <value>ПРАВОВАЯ ЗАЩИТА</value>
+      </value>
+      <value>
+        <value>НИЖЕ</value>
+        <value>ПРОТИВОРАДИАЦИОННАЯ ЗАЩИТА</value>
+      </value>
+      <value>
+        <value>НИЖЕ</value>
+        <value>САМООБОРОНА</value>
+      </value>
+      <value>
+        <value>НИЖЕ</value>
+        <value>СОЦИАЛЬНАЯ ЗАЩИТА</value>
+      </value>
+      <value>
+        <value>НИЖЕ</value>
+        <value>СПРЯТАТЬ, СКРЫТЬ</value>
+      </value>
+      <value>
+        <value>НИЖЕ</value>
+        <value>СТРАХОВАТЬ, ПОДСТРАХОВАТЬ</value>
+      </value>
+      <value>
+        <value>НИЖЕ</value>
+        <value>ЩАДИТЬ (ОТНОСИТЬСЯ БЕРЕЖНО)</value>
+      </value>
+      <value>
+        <value>НИЖЕ</value>
+        <value>ПРЕДОХРАНИТЬ (ЗАРАНЕЕ ОХРАНИТЬ, ОБЕРЕЧЬ)</value>
+      </value>
+      <value>
+        <value>ЧАСТЬ</value>
+        <value>ЗАЩИТНИК (ТОТ КТО ЗАЩИЩАЕТ)</value>
+      </value>
+      <value>
+        <value>ЧАСТЬ</value>
+        <value>ЗАЩИТНОЕ СРЕДСТВО</value>
+      </value>
+      <value>
+        <value>ЧАСТЬ</value>
+        <value>ОХРАНА (ГРУППА ЛЮДЕЙ)</value>
+      </value>
+    </rels>
+    <name>ОБЕРЕГАТЬ, ЗАЩИЩАТЬ</name>
+    <words>
+      <value>БЕРЕЧЬ</value>
+      <value>БЛЮСТИ</value>
+      <value>БРАТЬ ПОД ЗАЩИТУ</value>
+      <value>ВЗЯТЬ ПОД ЗАЩИТУ</value>
+      <value>ЗАЩИТА</value>
+      <value>ЗАЩИТИТЬ</value>
+      <value>ЗАЩИТНЫЙ</value>
+      <value>ЗАЩИЩАТЬ</value>
+      <value>ОБЕРЕГАТЬ</value>
+      <value>ОБЕРЕГАТЬСЯ</value>
+      <value>ОБЕРЕЧЬ</value>
+      <value>ПОБЕРЕЧЬ</value>
+      <value>ХРАНИТЬ</value>
+    </words>
+  </item>
+  <item>
+    <rels>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>ТВЕРДОЕ ТЕЛО</value>
+      </value>
+      <value>
+        <value>АССОЦ</value>
+        <value>ВОДА (ЖИДКОСТЬ)</value>
+      </value>
+      <value>
+        <value>АССОЦ</value>
+        <value>ГОЛОЛЕДНОЕ ЯВЛЕНИЕ</value>
+      </value>
+      <value>
+        <value>АССОЦ</value>
+        <value>ЗАМЕРЗНУТЬ, ПРЕВРАЩАТЬСЯ В ЛЕД</value>
+      </value>
+      <value>
+        <value>АССОЦ</value>
+        <value>ЛЕДЯНОЙ КАТОК</value>
+      </value>
+      <value>
+        <value>АССОЦ</value>
+        <value>ЛЕДЯНОЙ, ПОКРЫТЫЙ ЛЬДОМ</value>
+      </value>
+      <value>
+        <value>АССОЦ</value>
+        <value>НАЛЕДЬ, КОРКА ЛЬДА</value>
+      </value>
+      <value>
+        <value>АССОЦ</value>
+        <value>ОБЛЕДЕНЕТЬ</value>
+      </value>
+      <value>
+        <value>АССОЦ</value>
+        <value>СОСУЛЬКА</value>
+      </value>
+    </rels>
+    <name>ЛЕД</name>
+    <words>
+      <value>ЛЕД</value>
+      <value>ЛЕДОВЫЙ</value>
+      <value>ЛЕДЯНОЙ</value>
+    </words>
+  </item>
+  <item>
+    <rels>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>ГОСУДАРСТВО</value>
+      </value>
+      <value>
+        <value>НИЖЕ</value>
+        <value>ДРЕВНЯЯ ГРЕЦИЯ</value>
+      </value>
+      <value>
+        <value>НИЖЕ</value>
+        <value>ДРЕВНЯЯ ПЕРСИЯ</value>
+      </value>
+      <value>
+        <value>НИЖЕ</value>
+        <value>ДРЕВНЯЯ РУСЬ</value>
+      </value>
+      <value>
+        <value>НИЖЕ</value>
+        <value>СССР</value>
+      </value>
+      <value>
+        <value>НИЖЕ</value>
+        <value>СФРЮ</value>
+      </value>
+    </rels>
+    <name>ГОСУДАРСТВА, ПРЕКРАТИВШИЕ СУЩЕСТВОВАНИЕ</name>
+    <words>
+      <value>БЫВШЕЕ ГОСУДАРСТВО</value>
+      <value>ГОСУДАРСТВА, ПРЕКРАТИВШИЕ СУЩЕСТВОВАНИЕ</value>
+    </words>
+  </item>
+  <item>
+    <rels>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>КРАЙ РФ</value>
+      </value>
+      <value>
+        <value>ЦЕЛОЕ</value>
+        <value>ДАЛЬНЕВОСТОЧНЫЙ ФЕДЕРАЛЬНЫЙ ОКРУГ</value>
+      </value>
+      <value>
+        <value>ЦЕЛОЕ</value>
+        <value>ДАЛЬНИЙ ВОСТОК</value>
+      </value>
+      <value>
+        <value>ЦЕЛОЕ</value>
+        <value>ПРИМОРЬЕ</value>
+      </value>
+      <value>
+        <value>ЧАСТЬ</value>
+        <value>ВЛАДИВОСТОК</value>
+      </value>
+      <value>
+        <value>ЧАСТЬ</value>
+        <value>ГОРОД ПРИМОРСКОГО КРАЯ</value>
+      </value>
+    </rels>
+    <name>ПРИМОРСКИЙ КРАЙ</name>
+    <words>
+      <value>ПРИМОРСКИЙ КРАЙ</value>
+    </words>
+  </item>
+  <item>
+    <rels>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>ОЧКО (ЕДИНИЦА СЧЕТА)</value>
+      </value>
+      <value>
+        <value>АССОЦ</value>
+        <value>СПОРТИВНАЯ КОМАНДА</value>
+      </value>
+    </rels>
+    <name>ОБЩЕКОМАНДНЫЙ ЗАЧЕТ</name>
+    <words>
+      <value>КОМАНДНЫЙ ЗАЧЕТ</value>
+      <value>ОБЩЕКОМАНДНЫЙ ЗАЧЕТ</value>
+      <value>ОБЩИЙ ЗАЧЕТ</value>
+    </words>
+  </item>
+  <item>
+    <rels>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>ЦЕННОСТЬ (ЦЕННЫЙ ПРЕДМЕТ, ЯВЛЕНИЕ)</value>
+      </value>
+      <value>
+        <value>НИЖЕ</value>
+        <value>ДУХОВНЫЕ ЦЕННОСТИ</value>
+      </value>
+    </rels>
+    <name>ЦЕННОСТНЫЕ УСТАНОВКИ</name>
+    <words>
+      <value>ЖИЗНЕННЫЕ ОРИЕНТИРЫ</value>
+      <value>ЖИЗНЕННЫЕ УСТАНОВКИ</value>
+      <value>ЖИЗНЕННЫЕ ЦЕННОСТИ</value>
+      <value>НОРМАТИВНО-ЦЕННОСТНЫЙ</value>
+      <value>ЦЕННОСТИ</value>
+      <value>ЦЕННОСТНАЯ ЗНАЧИМОСТЬ</value>
+      <value>ЦЕННОСТНАЯ ОРИЕНТАЦИЯ</value>
+      <value>ЦЕННОСТНО-НОРМАТИВНЫЙ</value>
+      <value>ЦЕННОСТНЫЕ УСТАНОВКИ</value>
+      <value>ЦЕННОСТНЫЕ УСТРЕМЛЕНИЯ</value>
+      <value>ЦЕННОСТНЫЙ</value>
+      <value>ЦЕННОСТНЫЙ ОРИЕНТИР</value>
+      <value>ЧЕЛОВЕЧЕСКИЕ ЦЕННОСТИ</value>
+    </words>
+  </item>
+  <item>
+    <rels>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>ВЫВОД, ЗАКЛЮЧЕНИЕ</value>
+      </value>
+      <value>
+        <value>ЦЕЛОЕ</value>
+        <value>РЕШИТЬ, ПРИНЯТЬ РЕШЕНИЕ</value>
+      </value>
+      <value>
+        <value>НИЖЕ</value>
+        <value>ОКОНЧАТЕЛЬНОЕ РЕШЕНИЕ</value>
+      </value>
+      <value>
+        <value>НИЖЕ</value>
+        <value>ОТВЕТ (РЕЗУЛЬТАТ РЕШЕНИЯ)</value>
+      </value>
+      <value>
+        <value>НИЖЕ</value>
+        <value>РЕЗОЛЮЦИЯ (ПОСТАНОВЛЕНИЕ, РЕШЕНИЕ)</value>
+      </value>
+      <value>
+        <value>НИЖЕ</value>
+        <value>СУДЕБНОЕ РЕШЕНИЕ</value>
+      </value>
+      <value>
+        <value>НИЖЕ</value>
+        <value>УДАЧНАЯ НАХОДКА</value>
+      </value>
+      <value>
+        <value>АССОЦ</value>
+        <value>РЕЗОЛЮЦИЯ НА ДОКУМЕНТЕ</value>
+      </value>
+    </rels>
+    <name>РЕШЕНИЕ (ЗАКЛЮЧЕНИЕ, ВЫВОД)</name>
+    <words>
+      <value>РЕШЕНИЕ</value>
+    </words>
+  </item>
+  <item>
+    <rels>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>ОРГАН ГОСУДАРСТВЕННОЙ ВЛАСТИ</value>
+      </value>
+      <value>
+        <value>НИЖЕ</value>
+        <value>РАЙОННЫЙ ОТДЕЛ</value>
+      </value>
+      <value>
+        <value>НИЖЕ</value>
+        <value>РЕГИОНАЛЬНЫЙ ЗАКОНОДАТЕЛЬНЫЙ ОРГАН</value>
+      </value>
+      <value>
+        <value>НИЖЕ</value>
+        <value>РЕГИОНАЛЬНЫЙ ОРГАН ИСПОЛНИТЕЛЬНОЙ ВЛАСТИ</value>
+      </value>
+      <value>
+        <value>АССОЦ</value>
+        <value>РЕГИОН</value>
+      </value>
+    </rels>
+    <name>ТЕРРИТОРИАЛЬНЫЙ ОРГАН ВЛАСТИ</name>
+    <words>
+      <value>ОРГАН РЕГИОНАЛЬНОГО УПРАВЛЕНИЯ</value>
+      <value>ОРГАН ТЕРРИТОРИАЛЬНОГО УПРАВЛЕНИЯ</value>
+      <value>РЕГИОНАЛЬНОЕ РУКОВОДСТВО</value>
+      <value>РЕГИОНАЛЬНЫЕ ВЛАСТИ</value>
+      <value>РЕГИОНАЛЬНЫЕ ВЛАСТНЫЕ СТРУКТУРЫ</value>
+      <value>РЕГИОНАЛЬНЫЙ ГОСУДАРСТВЕННЫЙ ОРГАН</value>
+      <value>РЕГИОНАЛЬНЫЙ ОРГАН</value>
+      <value>РЕГИОНАЛЬНЫЙ ОРГАН ВЛАСТИ</value>
+      <value>РЕГИОНАЛЬНЫЙ ОРГАН ГОСВЛАСТИ</value>
+      <value>РЕГИОНАЛЬНЫЙ ОРГАН ГОСУДАРСТВЕННОГО УПРАВЛЕНИЯ</value>
+      <value>ТЕРОРГАН</value>
+      <value>ТЕРРИТОРИАЛЬНАЯ ВЛАСТЬ</value>
+      <value>ТЕРРИТОРИАЛЬНОЕ УЧРЕЖДЕНИЕ</value>
+      <value>ТЕРРИТОРИАЛЬНЫЙ ГОСУДАРСТВЕННЫЙ ОРГАН</value>
+      <value>ТЕРРИТОРИАЛЬНЫЙ ОРГАН</value>
+      <value>ТЕРРИТОРИАЛЬНЫЙ ОРГАН ВЛАСТИ</value>
+      <value>ТЕРРИТОРИАЛЬНЫЙ ОРГАН ГОСУДАРСТВЕННОГО УПРАВЛЕНИЯ</value>
+    </words>
+  </item>
+  <item>
+    <rels>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>ИЗНОСИТЬ</value>
+      </value>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>ИСКРИВИТЬ (ИЗОГНУТЬ)</value>
+      </value>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>СБИТЬСЯ (ПОВРЕДИТЬСЯ)</value>
+      </value>
+      <value>
+        <value>АССОЦ</value>
+        <value>НОШЕНИЕ ОБУВИ</value>
+      </value>
+    </rels>
+    <name>СТАПТЫВАНИЕ ОБУВИ</name>
+    <words>
+      <value>ИЗБИТЬ ОБУВЬ</value>
+      <value>ИЗБИТЬСЯ</value>
+      <value>ИСТАПТЫВАТЬ</value>
+      <value>ИСТОПТАТЬ</value>
+      <value>СБИВАТЬ</value>
+      <value>СБИТЬ</value>
+      <value>СТАПТЫВАНИЕ</value>
+      <value>СТАПТЫВАНИЕ ОБУВИ</value>
+      <value>СТАПТЫВАТЬ</value>
+      <value>СТАПТЫВАТЬСЯ</value>
+      <value>СТОПТАТЬ</value>
+      <value>СТОПТАТЬ ОБУВЬ</value>
+      <value>СТОПТАТЬСЯ</value>
+    </words>
+  </item>
+  <item>
+    <rels>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>ВОЙСКА (ВООРУЖЕННОЕ ФОРМИРОВАНИЕ)</value>
+      </value>
+      <value>
+        <value>ЦЕЛОЕ</value>
+        <value>ВООРУЖЕННЫЕ СИЛЫ</value>
+      </value>
+      <value>
+        <value>НИЖЕ</value>
+        <value>ПОЛК</value>
+      </value>
+      <value>
+        <value>ЧАСТЬ</value>
+        <value>ВОИНСКОЕ ПОДРАЗДЕЛЕНИЕ</value>
+      </value>
+      <value>
+        <value>АССОЦ</value>
+        <value>ВОЕННОЕ ИМУЩЕСТВО</value>
+      </value>
+    </rels>
+    <name>ВОИНСКАЯ ЧАСТЬ</name>
+    <words>
+      <value>АРМЕЙСКАЯ ЧАСТЬ</value>
+      <value>ВОЕННАЯ ЧАСТЬ</value>
+      <value>ВОИНСКАЯ ЧАСТЬ</value>
+      <value>ВОЙСКОВАЯ ЧАСТЬ</value>
+      <value>ВЧ</value>
+      <value>ЧАСТЬ</value>
+    </words>
+  </item>
+  <item>
+    <rels>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>ЖИДКОСТЬ</value>
+      </value>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>ЖИРОВОЕ ВЕЩЕСТВО</value>
+      </value>
+      <value>
+        <value>АССОЦ</value>
+        <value>МАСЛЯНАЯ КРАСКА</value>
+      </value>
+    </rels>
+    <name>МАСЛО (ЖИДКИЙ ЖИР)</name>
+    <words>
+      <value>ЖИРНОЕ МАСЛО</value>
+      <value>МАСЛО</value>
+      <value>МАСЛЯНЫЙ</value>
+    </words>
+  </item>
+  <item>
+    <rels>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>РЕЗКИЙ В ДВИЖЕНИИ</value>
+      </value>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>СТРЕМИТЕЛЬНЫЙ</value>
+      </value>
+    </rels>
+    <name>БУРНЫЙ (РЕЗКИЙ, СТРЕМИТЕЛЬНЫЙ)</name>
+    <words>
+      <value>БУРНОСТЬ</value>
+      <value>БУРНЫЙ</value>
+    </words>
+  </item>
+  <item>
+    <rels>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>ГЕОГРАФИЧЕСКАЯ ОБЛАСТЬ</value>
+      </value>
+      <value>
+        <value>ЦЕЛОЕ</value>
+        <value>АЗИЯ</value>
+      </value>
+      <value>
+        <value>ЧАСТЬ</value>
+        <value>АФГАНИСТАН</value>
+      </value>
+      <value>
+        <value>ЧАСТЬ</value>
+        <value>КАЗАХСТАН</value>
+      </value>
+      <value>
+        <value>ЧАСТЬ</value>
+        <value>СРЕДНЯЯ АЗИЯ</value>
+      </value>
+    </rels>
+    <name>ЦЕНТРАЛЬНАЯ АЗИЯ</name>
+    <words>
+      <value>ЦЕНТРАЛЬНАЯ АЗИЯ</value>
+      <value>ЦЕНТРАЛЬНОАЗИАТСКИЙ</value>
+      <value>ЦЕНТРАЛЬНО-АЗИАТСКИЙ</value>
+    </words>
+  </item>
+  <item>
+    <rels>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>ОЦЕНКА (МНЕНИЕ)</value>
+      </value>
+      <value>
+        <value>НИЖЕ</value>
+        <value>БЕЗОШИБОЧНЫЙ</value>
+      </value>
+      <value>
+        <value>АССОЦ</value>
+        <value>ИСТИНА, ПРАВДА</value>
+      </value>
+    </rels>
+    <name>ИСТИННЫЙ, ВЕРНЫЙ</name>
+    <words>
+      <value>ВЕРНОСТЬ</value>
+      <value>ВЕРНЫЙ</value>
+      <value>ДОПОДЛИННЫЙ</value>
+      <value>ИСТИННОСТЬ</value>
+      <value>ИСТИННЫЙ</value>
+      <value>ПРАВИЛЬНОСТЬ</value>
+      <value>ПРАВИЛЬНЫЙ</value>
+      <value>ПРАВОТА</value>
+      <value>СПРАВЕДЛИВОСТЬ</value>
+      <value>СПРАВЕДЛИВЫЙ</value>
+    </words>
+  </item>
+  <item>
+    <rels>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>АГЕНТСТВО</value>
+      </value>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>ИНФОРМАЦИОННОЕ УЧРЕЖДЕНИЕ</value>
+      </value>
+      <value>
+        <value>АССОЦ</value>
+        <value>НОВОСТНОЕ СООБЩЕНИЕ</value>
+      </value>
+      <value>
+        <value>АССОЦ</value>
+        <value>СРЕДСТВА МАССОВОЙ ИНФОРМАЦИИ</value>
+      </value>
+    </rels>
+    <name>ИНФОРМАЦИОННОЕ АГЕНТСТВО</name>
+    <words>
+      <value>АГЕНТСТВО НОВОСТЕЙ</value>
+      <value>ИНФОРМАГЕНТСТВО</value>
+      <value>ИНФОРМАЦИОННОЕ АГЕНТСТВО</value>
+      <value>ИНФОРМБЮРО</value>
+      <value>НОВОСТНОЕ АГЕНТСТВО</value>
+    </words>
+  </item>
+  <item>
+    <rels>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>УЗНАТЬ, ПОЛУЧИТЬ СВЕДЕНИЯ</value>
+      </value>
+      <value>
+        <value>НИЖЕ</value>
+        <value>АНАЛИЗ СОСТАВА ВЕЩЕСТВА</value>
+      </value>
+      <value>
+        <value>НИЖЕ</value>
+        <value>ВЫЧИСЛИТЬ, ИСЧИСЛИТЬ</value>
+      </value>
+      <value>
+        <value>НИЖЕ</value>
+        <value>ДИАГНОСТИКА ПРОБЛЕМ</value>
+      </value>
+      <value>
+        <value>НИЖЕ</value>
+        <value>ИЗМЕРЕНИЕ</value>
+      </value>
+      <value>
+        <value>НИЖЕ</value>
+        <value>КВАЛИФИЦИРОВАТЬ (ВЫЯСНИТЬ)</value>
+      </value>
+      <value>
+        <value>НИЖЕ</value>
+        <value>КЛЕЙМЕНИЕ ПРОБИРНЫМ КЛЕЙМОМ</value>
+      </value>
+      <value>
+        <value>НИЖЕ</value>
+        <value>КОНСТАТИРОВАТЬ</value>
+      </value>
+      <value>
+        <value>НИЖЕ</value>
+        <value>ОРИЕНТИРОВАНИЕ НА МЕСТНОСТИ</value>
+      </value>
+      <value>
+        <value>НИЖЕ</value>
+        <value>ОСВИДЕТЕЛЬСТВОВАНИЕ</value>
+      </value>
+      <value>
+        <value>НИЖЕ</value>
+        <value>ОТКРЫТЬ, СДЕЛАТЬ ОТКРЫТИЕ</value>
+      </value>
+      <value>
+        <value>НИЖЕ</value>
+        <value>ОЦЕНИТЬ, ДАТЬ ОЦЕНКУ</value>
+      </value>
+      <value>
+        <value>НИЖЕ</value>
+        <value>ПОСТРОЕНИЕ МАРШРУТА</value>
+      </value>
+      <value>
+        <value>НИЖЕ</value>
+        <value>РАСПОЗНАТЬ</value>
+      </value>
+      <value>
+        <value>НИЖЕ</value>
+        <value>РАССЛЕДОВАТЬ (ОСУЩЕСТВИТЬ СЛЕДСТВИЕ)</value>
+      </value>
+      <value>
+        <value>НИЖЕ</value>
+        <value>РАССМОТРЕТЬ, РАЗОБРАТЬ</value>
+      </value>
+      <value>
+        <value>НИЖЕ</value>
+        <value>РЕШИТЬ, ПРИНЯТЬ РЕШЕНИЕ</value>
+      </value>
+      <value>
+        <value>НИЖЕ</value>
+        <value>СООТНЕСТИ</value>
+      </value>
+      <value>
+        <value>НИЖЕ</value>
+        <value>СПОРИТЬ, ДЕРЖАТЬ ПАРИ</value>
+      </value>
+      <value>
+        <value>НИЖЕ</value>
+        <value>СРАВНИТЬ, СОПОСТАВИТЬ</value>
+      </value>
+      <value>
+        <value>НИЖЕ</value>
+        <value>СЧИТАТЬ, ОПРЕДЕЛЯТЬ КОЛИЧЕСТВО</value>
+      </value>
+      <value>
+        <value>АССОЦ</value>
+        <value>НЕПОНЯТНЫЙ, НЕЯСНЫЙ</value>
+      </value>
+      <value>
+        <value>АССОЦ</value>
+        <value>ОСМОТРЕТЬ, ОБСЛЕДОВАТЬ</value>
+      </value>
+    </rels>
+    <name>ОПРЕДЕЛИТЬ, ВЫЯСНИТЬ</name>
+    <words>
+      <value>ВЫЯСНЕНИЕ</value>
+      <value>ВЫЯСНИТЬ</value>
+      <value>ВЫЯСНЯТЬ</value>
+      <value>ДОВЫЯСНИТЬ</value>
+      <value>ОПРЕДЕЛЕНИЕ</value>
+      <value>ОПРЕДЕЛИТЬ</value>
+      <value>ОПРЕДЕЛЯТЬ</value>
+      <value>УСТАНАВЛИВАТЬ</value>
+      <value>УСТАНАВЛИВАТЬСЯ</value>
+      <value>УСТАНОВИТЬ</value>
+      <value>УСТАНОВЛЕНИЕ</value>
+    </words>
+  </item>
+  <item>
+    <rels>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>ДЕНЕЖНАЯ ЕДИНИЦА</value>
+      </value>
+      <value>
+        <value>АССОЦ</value>
+        <value>УКРАИНА</value>
+      </value>
+    </rels>
+    <name>ГРИВНА</name>
+    <words>
+      <value>ГРИВНА</value>
+      <value>ГРИВНЕВЫЙ</value>
+      <value>УКРАИНСКАЯ ГРИВНА</value>
+    </words>
+  </item>
+  <item>
+    <rels>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>СОСТОЯНИЕ, ВНУТРЕННИЕ ОБСТОЯТЕЛЬСТВА</value>
+      </value>
+    </rels>
+    <name>МОКРЫЙ, СЫРОЙ</name>
+    <words>
+      <value>ВЛАГА</value>
+      <value>ВЛАЖНОСТЬ</value>
+      <value>ВЛАЖНЫЙ</value>
+      <value>ВОЛГЛОСТЬ</value>
+      <value>ВОЛГЛЫЙ</value>
+      <value>МОКРОТА</value>
+      <value>МОКРЫЙ</value>
+      <value>СЫРОЙ</value>
+      <value>СЫРОСТЬ</value>
+    </words>
+  </item>
+  <item>
+    <rels>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>СОГЛАШЕНИЕ, ДОГОВОРЕННОСТЬ</value>
+      </value>
+    </rels>
+    <name>ЗАГОВОР (ТАЙНОЕ СОГЛАШЕНИЕ)</name>
+    <words>
+      <value>ЗАГОВОР</value>
+      <value>КОНТРЗАГОВОР</value>
+      <value>ТАЙНЫЙ ЗАГОВОР</value>
+      <value>ТАЙНЫЙ СГОВОР</value>
+    </words>
+  </item>
+  <item>
+    <rels>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>СПОСОБ, СРЕДСТВО</value>
+      </value>
+      <value>
+        <value>НИЖЕ</value>
+        <value>КОЛДОВСТВО, КОЛДОВСКИЕ ЧАРЫ</value>
+      </value>
+      <value>
+        <value>НИЖЕ</value>
+        <value>СПОРТИВНЫЙ ПРИЕМ</value>
+      </value>
+      <value>
+        <value>НИЖЕ</value>
+        <value>ТЕХНИКА (ПРОФЕССИОНАЛЬНЫЕ ПРИЕМЫ)</value>
+      </value>
+      <value>
+        <value>НИЖЕ</value>
+        <value>ТРЮК (ЛОВКИЙ ПРИЕМ)</value>
+      </value>
+      <value>
+        <value>НИЖЕ</value>
+        <value>ХИТРОСТЬ (ПОСТУПОК)</value>
+      </value>
+    </rels>
+    <name>ПРИЕМ (СПОСОБ)</name>
+    <words>
+      <value>МЕТОД</value>
+      <value>ПРИЕМ</value>
+      <value>ПРИЕМЧИК</value>
+    </words>
+  </item>
+  <item>
+    <rels>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>СУБЪЕКТ ДЕЯТЕЛЬНОСТИ</value>
+      </value>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>РАСПОРЯДИТЕЛЬ</value>
+      </value>
+      <value>
+        <value>ЦЕЛОЕ</value>
+        <value>КООРДИНАЦИЯ ДЕЯТЕЛЬНОСТИ</value>
+      </value>
+    </rels>
+    <name>КООРДИНАТОР</name>
+    <words>
+      <value>КООРДИНАТОР</value>
+    </words>
+  </item>
+  <item>
+    <rels>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>ВОЛЖАНИН</value>
+      </value>
+      <value>
+        <value>ЦЕЛОЕ</value>
+        <value>КАЗАНЬ</value>
+      </value>
+    </rels>
+    <name>КАЗАНЦЫ</name>
+    <words>
+      <value>ЖИТЕЛИ КАЗАНИ</value>
+      <value>КАЗАНЕЦ</value>
+    </words>
+  </item>
+  <item>
+    <rels>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>ОБЕРЕГАТЬ, ЗАЩИЩАТЬ</value>
+      </value>
+    </rels>
+    <name>ЩАДИТЬ (ОТНОСИТЬСЯ БЕРЕЖНО)</name>
+    <words>
+      <value>ЖАЛЕТЬ</value>
+      <value>ПОЖАЛЕТЬ</value>
+      <value>ПОЩАДИТЬ</value>
+      <value>ЩАДИТЬ</value>
+    </words>
+  </item>
+  <item>
+    <rels>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>РЕШЕНИЕ (ЗАКЛЮЧЕНИЕ, ВЫВОД)</value>
+      </value>
+    </rels>
+    <name>УДАЧНАЯ НАХОДКА</name>
+    <words>
+      <value>НАХОДКА</value>
+      <value>НАХОДКА ДЛЯ</value>
+      <value>УДАЧНАЯ НАХОДКА</value>
+      <value>УДАЧНОЕ РЕШЕНИЕ</value>
+    </words>
+  </item>
+  <item>
+    <rels>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>РЕШЕНИЕ (ЗАКЛЮЧЕНИЕ, ВЫВОД)</value>
+      </value>
+    </rels>
+    <name>ОКОНЧАТЕЛЬНОЕ РЕШЕНИЕ</name>
+    <words>
+      <value>ВЕРДИКТ</value>
+      <value>ОКОНЧАТЕЛЬНОЕ РЕШЕНИЕ</value>
+      <value>ОКОНЧАТЕЛЬНЫЙ ВЕРДИКТ</value>
+    </words>
+  </item>
+  <item>
+    <rels>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>ТЕРРИТОРИАЛЬНЫЙ ОРГАН ВЛАСТИ</value>
+      </value>
+    </rels>
+    <name>РАЙОННЫЙ ОТДЕЛ</name>
+    <words>
+      <value>РАЙОННЫЙ ОТДЕЛ</value>
+      <value>РАЙОТДЕЛ</value>
+    </words>
+  </item>
+  <item>
+    <rels>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>ОПРЕДЕЛИТЬ, ВЫЯСНИТЬ</value>
+      </value>
+    </rels>
+    <name>КОНСТАТИРОВАТЬ</name>
+    <words>
+      <value>КОНСТАТАЦИОННЫЙ</value>
+      <value>КОНСТАТАЦИЯ</value>
+      <value>КОНСТАТИРОВАНИЕ</value>
+      <value>КОНСТАТИРОВАТЬ</value>
+    </words>
+  </item>
+  <item>
+    <rels>
+      <value>
+        <value>ВЫШЕ</value>
+        <value>ОПРЕДЕЛИТЬ, ВЫЯСНИТЬ</value>
+      </value>
+    </rels>
+    <name>АНАЛИЗ СОСТАВА ВЕЩЕСТВА</name>
+    <words>
+      <value>АНАЛИЗ</value>
+      <value>АНАЛИЗ СОСТАВА ВЕЩЕСТВА</value>
+      <value>АНАЛИЗИРОВАТЬ</value>
+    </words>
+  </item>
+</items> 
